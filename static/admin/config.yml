@@ -1,0 +1,16 @@
+backend:
+  name: git-gateway
+  branch: develop # Branch to update (optional; defaults to master)
+
+media_folder: "assets"
+
+collections: 
+  - name: "pages"
+    label: "Pages"
+    files:
+      - file: "static/content/about.md"
+        label: "About"
+        name: "about"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}

@@ -14,6 +14,9 @@ module.exports = {
 			{ property: 'og:description', content: 'Next Level Running erbjuder skräddarsydd, effektiv och målinriktad löpcoaching i nära samarbete med Tor Pöllänen - Löpcoach och fd Landslagslöpare' },
 			{ property: 'og:image', content: 'https://nextlevelrunning.se/og-image.png' }
 		],
+		script: [
+			{ src: 'https://identity.netlify.com/v1/netlify-identity-widget.js' }
+		],
 		link: [
 			{ rel: 'icon', type: 'images/png', sizes: '192x192', href: 'favicon.png' }
 		],
