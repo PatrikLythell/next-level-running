@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="81px" height="79px" viewBox="0 0 81 79" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>tillval</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="80 26 80 51 1 51 1 26"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="desktop-landning-grön" transform="translate(-914.000000, -837.000000)">
+            <g id="Group" transform="translate(790.000000, 784.000000)">
+                <g id="tillval" transform="translate(124.000000, 53.000000)">
+                    <rect id="Rectangle-2-Copy" fill="#000000" x="0" y="0" width="81" height="79"></rect>
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M37.5308231,35.2600298 C28.6083034,42.3617122 21.5621292,47.9731876 5.77466538,36.1443284 L1,42.5350238 C9.28480751,48.7442196 16.0993342,51 21.889161,51 C30.5664068,51 36.9353526,45.930294 42.4908065,41.5088007 C51.8357424,34.068683 58.5889506,28.6946581 74.8737754,42.3958287 L80,36.2835236 C58.7279391,18.3873931 46.9725059,27.7434912 37.5308231,35.2600298" id="Fill-1" fill="#80E298" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

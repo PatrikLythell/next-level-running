@@ -1,0 +1,23 @@
+{
+  "name": "next-level-running",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nuxtjs/google-tag-manager": "^1.0.1",
+    "flickity": "^2.0.10",
+    "lost": "^8.2.0",
+    "normalize.css": "^7.0.0",
+    "nuxt": "^1.0.0-rc9",
+    "postcss-cssnext": "^3.0.2"
+  }
+}

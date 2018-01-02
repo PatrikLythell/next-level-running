@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="81px" height="79px" viewBox="0 0 81 79" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>uppfoljning</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="desktop-landning-grön" transform="translate(-560.000000, -837.000000)">
+            <g id="uppfoljning" transform="translate(560.000000, 837.000000)">
+                <rect id="Rectangle-2" fill="#000000" x="0" y="0" width="81" height="79"></rect>
+                <polygon id="Fill-1" fill="#80E298" points="36 26 44 26 44 10 36 10"></polygon>
+                <polygon id="Fill-2" fill="#80E298" points="36 71 44 71 44 55 36 55"></polygon>
+                <polygon id="Fill-3" fill="#80E298" points="51 29.8767705 55.0245805 37 69 29.121813 64.9754195 22"></polygon>
+                <polygon id="Fill-4" fill="#80E298" points="12 51.8760978 16.0245805 59 30 51.1224856 25.9740014 44"></polygon>
+                <polygon id="Fill-5" fill="#80E298" points="51 51.1384005 64.9899165 59 69 51.8615995 55.0115015 44"></polygon>
+                <polygon id="Fill-6" fill="#80E298" points="12 29.1390754 25.9884985 37 30 29.8609246 16.0115015 22"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

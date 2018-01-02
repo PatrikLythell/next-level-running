@@ -1,0 +1,99 @@
+@custom-media --small (max-width: 45em);
+@custom-media --xsmall (max-width: 25em);
+
+@font-face {
+  font-family: 'RealtimeRounded-Regular';
+  src: url('2F63F0_4_0.eot'); /* IE9 Compat Modes */
+  src: url('2F63F0_4_0.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('2F63F0_4_0.woff') format('woff'), /* Modern Browsers */
+       url('2F63F0_4_0.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('2F63F0_4_0.svg#d62e6df5e48683700b58fa3c0c467855') format('svg'); /* Legacy iOS */
+
+  font-style:   normal;
+  font-weight:  400;
+}
+
+@font-face {
+  font-family: 'Knockout HTF70-FullWelterwt';
+  src: url('Knockout-HTF70-FullWelterwt.eot'); /* IE9 Compat Modes */
+  src: url('Knockout-HTF70-FullWelterwt.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('Knockout-HTF70-FullWelterwt.woff') format('woff'), /* Modern Browsers */
+       url('Knockout-HTF70-FullWelterwt.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('Knockout-HTF70-FullWelterwt.svg#4475d0a03931a7cb1523be491b6d0797') format('svg'); /* Legacy iOS */
+
+  font-style:   normal;
+  font-weight:  400;
+}
+
+/* apply a natural box layout model to all elements, but allowing components to change */
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: #80E298;
+  -webkit-font-smoothing: antialiased;
+  color: #000;
+  font-family: 'RealtimeRounded-Regular', monospace;
+  line-height: 1.5;
+  background-image: url(~assets/bg-small.svg);
+  background-repeat: no-repeat;
+  background-position: right 360px;
+}
+
+a {
+  color: inherit;
+}
+
+p {
+  font-size: 1.20rem;
+}
+
+h1, h2, h3 {
+  font-family: 'Knockout HTF70-FullWelterwt', Impact, sans-serif;
+  line-height: 1.1;
+  font-weight: 500;
+}
+
+h1 {
+  font-size: 80px;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: 36px;
+  text-transform: uppercase;
+}
+
+h2.large {
+  font-size: 56px;
+}
+
+h3 {
+  font-size: 24px;
+}
+
+.small {
+  font-size: 16px;
+}
+
+.italic {
+  font-style: italic;
+}
+
+@media (max-width: 60em) {
+  h1 {
+    font-size: 48px;
+    line-height: 1.1;
+  }
+  h2.large {
+    font-size: 36px;
+  }
+  h2 {
+    font-size: 24px;
+    line-height: 1.3;
+  }
+}
