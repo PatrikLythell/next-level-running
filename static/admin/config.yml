@@ -1,0 +1,129 @@
+backend:
+  name: git-gateway
+  branch: master
+
+media_folder: static/img
+public_folder: /img
+
+collections:
+  - name: "blog"
+    label: "Blog"
+    folder: "src/pages/blog"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "pages"
+    label: "Pages"
+    files:
+      - file: "src/pages/privat/index.md"
+        label: "Privat"
+        name: "privat"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "privat-page"}
+          - {label: "Topptitel", name: "title", widget: "string"}
+          - {label: "Introtext", name: "intro", widget: "markdown"}
+          - {label: "CTA", name: "cta", widget: "string"}
+          - {label: "Erbjudanderubrik", name: "offerTitle", widget: "string"}
+          - label: "Erbjudanden",
+            name: "offers",
+            widget: "list",
+            fields:
+              - {label: "Rubrik", name: "title", widget: "string"}
+              - {label: "Text", name: "body", widget: "text"}
+              - label: ”USP-lista”,
+                name: "usps",
+                widget: "list",
+                fields:
+                  - { label: "Rubrik", name: "title", widget: "string" }
+                  - { label: "Extrainfo", name: "body", widget: "string" }
+          - {label: "Erbjudande CTA", name: "cta", widget: "string"}
+          - label: "Extrapuffar",
+            name: "boxes",
+            widget: "list",
+            fields:
+              - { label: "Rubrik", name: "title", widget: "string" }
+              - {label: "CTA", name: "cta", widget: "string"}¨
+          - {label: "Sluttext", name: "ending", widget: "markdown"}
+
+      - file: "src/pages/foretag/index.md"
+        label: "Företag"
+        name: "foretag"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "foretag-page"}
+          - {label: "Topptitel", name: "title", widget: "string"}
+          - {label: "Introtext", name: "intro", widget: "markdown"}
+          - {label: "CTA", name: "cta", widget: "string"}
+          - {label: "Erbjudanderubrik", name: "offerTitle", widget: "string"}
+          - label: "Erbjudanden",
+            name: "offers",
+            widget: "list",
+            fields:
+              - {label: "Rubrik", name: "title", widget: "string"}
+              - {label: "Text", name: "body", widget: "text"}
+              - label: ”USP-lista”,
+                name: "usps",
+                widget: "list",
+                fields:
+                  - { label: "Rubrik", name: "title", widget: "string" }
+                  - { label: "Extrainfo", name: "body", widget: "string" }
+          - {label: "Erbjudande CTA", name: "cta", widget: "string"}
+          - label: "Extrapuffar",
+            name: "boxes",
+            widget: "list",
+            fields:
+              - {label: "Rubrik", name: "title", widget: "string"}
+              - {label: "CTA", name: "cta", widget: "string"}
+          - {label: "Sluttext", name: "ending", widget: "markdown"}
+
+      - file: "src/pages/coacher/index.md"
+        label: "Coacher"
+        name: "coacher"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "coach-page"}
+          - {label: "Topptitel", name: "title", widget: "string"}
+          - {label: "Introtext", name: "intro", widget: "text"}
+          - label: "Coacher",
+            name: "coaches",
+            widget: "list",
+            fields:
+              - {label: "Namn", name: "title", widget: "string"}
+              - {label: "USP", name: "usp", widget: "string"}
+              - {label: "Text", name: "text", widget: "markdown"}
+          - {label: "Sluttext", name: "ending", widget: "markdown"}
+          - {label: "CTA", name: "cta", widget: "string"}
+
+      - file: "src/pages/kontakt/index.md"
+        label: "Kontakt"
+        name: "kontakt"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "contact-page"}
+          - {label: "Topptitel", name: "title", widget: "string"}
+          - {label: "Introtext", name: "intro", widget: "text"}
+          - label: "Formulär",
+            name: "forms",
+            widget: "list",
+            fields:
+              - {label: "Kundkategori", name: "category", widget: "string"}
+              - label: "Fält",
+                name: "fields",
+                widget: "list",
+                fields:
+                  - {label: "Namn", name: "name", widget: "string"}
+                  - {label: "Placeholdertext", name: "placeholder", widget: "string"}
+                  - {label: "Typ", name: "type", widget: 'select', options: ['text', 'email', 'number', 'url', 'textarea']}
+          - {label: "CTA", name: "cta", widget: "string"}
+          - {label: "Sluttext", name: "ending", widget: "markdown"}
+
+      - file: "src/pages/nlr-trappan/index.md"
+        label: "About"
+        name: "about"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "nlr-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
