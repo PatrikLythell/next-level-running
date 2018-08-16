@@ -30,18 +30,18 @@ collections:
           - {label: "Introtext", name: "intro", widget: "markdown"}
           - {label: "CTA", name: "cta", widget: "string"}
           - {label: "Erbjudanderubrik", name: "offerTitle", widget: "string"}
-          - label: "Erbjudanden",
-          name: "offers",
-          widget: "list",
-          fields:
-            - {label: "Rubrik", name: "title", widget: "string"}
-            - {label: "Text", name: "body", widget: "text"}
-            - label: ”USP-lista”,
-              name: "usps",
-              widget: "list",
-              fields:
-              - { label: "Rubrik", name: "title", widget: "string" }
-              - { label: "Extrainfo", name: "body", widget: "string" }
+          - label: "Erbjudanden"
+            name: "offers"
+            widget: "list"
+            fields:
+              - {label: "Rubrik", name: "title", widget: "string"}
+              - {label: "Text", name: "body", widget: "text"}
+              - label: ”USP-lista”,
+            name: "usps",
+            widget: "list",
+            fields:
+            - { label: "Rubrik", name: "title", widget: "string" }
+            - { label: "Extrainfo", name: "body", widget: "string" }
           - {label: "Erbjudande CTA", name: "cta", widget: "string"}
           - label: "Extrapuffar",
           name: "boxes",
@@ -67,18 +67,18 @@ collections:
             - {label: "Rubrik", name: "title", widget: "string"}
             - {label: "Text", name: "body", widget: "text"}
             - label: ”USP-lista”,
-              name: "usps",
-              widget: "list",
-              fields:
-                - { label: "Rubrik", name: "title", widget: "string" }
-                - { label: "Extrainfo", name: "body", widget: "string" }
-          - {label: "Erbjudande CTA", name: "cta", widget: "string"}
-          - label: "Extrapuffar",
-            name: "boxes",
+            name: "usps",
             widget: "list",
             fields:
-              - {label: "Rubrik", name: "title", widget: "string"}
-              - {label: "CTA", name: "cta", widget: "string"}
+              - { label: "Rubrik", name: "title", widget: "string" }
+              - { label: "Extrainfo", name: "body", widget: "string" }
+          - {label: "Erbjudande CTA", name: "cta", widget: "string"}
+          - label: "Extrapuffar",
+          name: "boxes",
+          widget: "list",
+          fields:
+            - {label: "Rubrik", name: "title", widget: "string"}
+            - {label: "CTA", name: "cta", widget: "string"}
           - {label: "Sluttext", name: "ending", widget: "markdown"}
 
       - file: "src/pages/coacher/index.md"
@@ -111,12 +111,12 @@ collections:
           fields:
             - {label: "Kundkategori", name: "category", widget: "string"}
             - label: "Fält",
-              name: "fields",
-              widget: "list",
-              fields:
-                - {label: "Namn", name: "name", widget: "string"}
-                - {label: "Placeholdertext", name: "placeholder", widget: "string"}
-                - {label: "Typ", name: "type", widget: 'select', options: ['text', 'email', 'number', 'url', 'textarea']}
+            name: "fields",
+            widget: "list",
+            fields:
+              - {label: "Namn", name: "name", widget: "string"}
+              - {label: "Placeholdertext", name: "placeholder", widget: "string"}
+              - {label: "Typ", name: "type", widget: 'select', options: ['text', 'email', 'number', 'url', 'textarea']}
           - {label: "CTA", name: "cta", widget: "string"}
           - {label: "Sluttext", name: "ending", widget: "markdown"}
 
