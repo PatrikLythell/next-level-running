@@ -42,13 +42,7 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "privat-page"}
           - {label: "Topptitel", name: "title", widget: "string", optional: true}
           - {label: "Introtext", name: "intro", widget: "markdown", optional: true}
-          - label: "CTA"
-            name: "cta"
-            widget: "list"
-            optional: true
-            fields:
-              - {label: "Text", name: "text", widget: "string"}
-              - {label: "URL", name: "url", widget: "string"}
+          - {label: "CTA", name: "cta", widget: "string", optional: true}
           - {label: "Erbjudanderubrik", name: "offerTitle", widget: "string", optional: true}
           - label: "Erbjudanden"
             name: "offers"
@@ -58,20 +52,14 @@ collections:
               - {label: "Rubrik", name: "title", widget: "string", optional: true}
               - {label: "Text", name: "body", widget: "text", optional: true}
               - {label: "Pris", name: "price", widget: "text", optional: true}
-              - label: ”USP-lista”
-                name: "Listan under erbjudande"
+              - label: ”USP-lista”,
+                name: "usps"
                 widget: "list"
                 optional: true
                 fields:
-                  - {label: "Fetad text", name: "strongText", widget: "string", optional: true}
-                  - {label: "text", name: "text", widget: "string", optional: true}
-              - label: "Erbjudande CTA"
-                name: "offerCta"
-                widget: "list"
-                optional: true
-                fields:
-                  - {label: "Text", name: "text", widget: "string"}
-                  - {label: "URL", name: "url", widget: "string"}
+                  - {label: "Rubrik", name: "title", widget: "string", optional: true}
+                  - {label: "Extrainfo", name: "body", widget: "string", optional: true}
+              - {label: "Erbjudande CTA", name: "cta", widget: "string", optional: true}
           - {label: "Sluttext", name: "ending", widget: "markdown", optional: true}
 
       - file: "src/pages/foretag/index.md"
