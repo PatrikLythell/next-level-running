@@ -26,7 +26,6 @@ collections:
         label: "Startsida"
         file: "src/pages/index/index.md"
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "index-page"}
           - {label: "Logo", name: "logo", widget: "image"}
           - label: "Extrapuffar"
             name: "boxes"
