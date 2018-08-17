@@ -1,4 +1,5 @@
 ---
+templateKey: private-page
 title: Välkommen att springa
 intro: Fort varje dag
 cta: För att bli glad
@@ -14,4 +15,3 @@ boxes:
     cta: Spring här
 ending: Tack för kaffet!
 ---
-

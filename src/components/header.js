@@ -2,16 +2,18 @@ import React from 'react'
 import { Link } from 'gatsby'
 
 const Header = ({ siteTitle }) => (
-  <div>
-    <ul className="list-reset flex p-2">
-      <li className="mr-2">
+  <div className="overflow-scroll">
+    <ul className="list-reset flex justify-between sm:justify-start whitespace-no-wrap p-2">
+      <li className="mr-4">
         <Link to="/">NLR</Link>
       </li>
-      <li className="mr-2">Privat</li>
-      <li className="mr-2">Företag</li>
-      <li className="mr-2">Coacher</li>
-      <li className="mr-2">NLR-trappan</li>
-      <li className="mr-2">
+      <li className="mr-4">
+        <Link to="/privat">Privat</Link>
+      </li>
+      <li className="mr-4">Företag</li>
+      <li className="mr-4">Coacher</li>
+      <li className="mr-4">NLR-trappan</li>
+      <li className="mr-4">
         <Link to="/contact">Kontakt</Link>
       </li>
     </ul>
