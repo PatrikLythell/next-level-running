@@ -58,7 +58,7 @@ collections:
               - {label: "Rubrik", name: "title", widget: "string", optional: true}
               - {label: "Text", name: "body", widget: "text", optional: true}
               - {label: "Pris", name: "price", widget: "text", optional: true}
-              - label: ”USP-lista”,
+              - label: ”USP-lista”
                 name: "Listan under erbjudande"
                 widget: "list"
                 optional: true
