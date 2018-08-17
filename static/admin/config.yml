@@ -65,8 +65,8 @@ collections:
                 fields:
                   - {label: "Fetad text", name: "strongText", widget: "string", optional: true}
                   - {label: "text", name: "text", widget: "string", optional: true}
-              - label: "CTA"
-                name: "cta"
+              - label: "Erbjudande CTA"
+                name: "offerCta"
                 widget: "list"
                 optional: true
                 fields:
