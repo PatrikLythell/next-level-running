@@ -13,7 +13,7 @@ cta: För att bli glad
 offerTitle: Erbjudanden
 offers:
   - body: Spring snabbt!
-    title: Next level runner
+    title: Next level runner.
     usps:
       - body: Hela tiden
         title: Spring
