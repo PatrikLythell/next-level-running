@@ -19,6 +19,16 @@ collections:
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
 
+  - name: "quotes"
+    label: "Citat"
+    folder: "src/pages/quotes"
+    create: true
+    fields:
+      - {label: "Name", name: "title", widget: "string", required: false}
+      - {label: "Bild", name: "img", widget: "image", required: false}
+      - {label: "Citat", name: "quote", widget: "text", required: false}
+      - {label: "Taggar", name: "tags", widget: list}
+
   - name: "pages"
     label: "Pages"
     files:
@@ -66,9 +76,9 @@ collections:
         label: "Företag"
         name: "foretag"
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "foretag-page"}
-          - {label: "Topptitel", name: "title", widget: "string"}
-          - {label: "Introtext", name: "intro", widget: "markdown"}
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "privat-page"}
+          - {label: "Topptitel", name: "title", widget: "string", required: false}
+          - {label: "Introtext", name: "intro", widget: "markdown", required: false}
           - {label: "CTA", name: "cta", widget: "string", required: false}
           - {label: "Erbjudanderubrik", name: "offerTitle", widget: "string", required: false}
           - label: "Erbjudanden"
@@ -78,6 +88,7 @@ collections:
             fields:
               - {label: "Rubrik", name: "title", widget: "string", required: false}
               - {label: "Text", name: "body", widget: "text", required: false}
+              - {label: "Pris", name: "price", widget: "text", required: false}
               - label: ”USP-lista”,
                 name: "usps"
                 widget: "list"
@@ -85,14 +96,7 @@ collections:
                 fields:
                   - {label: "Rubrik", name: "title", widget: "string", required: false}
                   - {label: "Extrainfo", name: "body", widget: "string", required: false}
-          - {label: "Erbjudande CTA", name: "cta", widget: "string", required: false}
-          - label: "Extrapuffar"
-            name: "boxes"
-            widget: "list"
-            required: false
-            fields:
-              - {label: "Rubrik", name: "title", widget: "string", required: false}
-              - {label: "CTA", name: "cta", widget: "string", required: false}
+              - {label: "Erbjudande CTA", name: "cta", widget: "string", required: false}
           - {label: "Sluttext", name: "ending", widget: "markdown", required: false}
 
       - file: "src/pages/coacher/index.md"
