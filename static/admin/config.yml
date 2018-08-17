@@ -6,21 +6,6 @@ media_folder: static/img
 public_folder: /img
 
 collections:
-  - name: "universal"
-    label: "Startsida och mer"
-    file: "src/pages/index/index.md"
-    fields:
-      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "index-page"}
-      - {label: "Logo", name: "logo", widget: "image"}
-      - label: "Extrapuffar"
-        name: "boxes"
-        widget: "list"
-        optional: true
-        fields:
-          - {label: "Rubrik", name: "title", widget: "string", optional: true}
-          - {label: "CTA", name: "cta", widget: "string", optional: true}
-          - {label: "Länk", name: "link", widget: "relation", collection: "pages", searchfields: ["label", "name"], valuefield: "label"}
-          -
   - name: "blog"
     label: "Blog"
     folder: "src/pages/blog"
@@ -37,6 +22,20 @@ collections:
   - name: "pages"
     label: "Pages"
     files:
+      - name: "universal"
+        label: "Startsida"
+        file: "src/pages/index/index.md"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "index-page"}
+          - {label: "Logo", name: "logo", widget: "image"}
+          - label: "Extrapuffar"
+            name: "boxes"
+            widget: "list"
+            optional: true
+            fields:
+              - {label: "Rubrik", name: "title", widget: "string", optional: true}
+              - {label: "CTA", name: "cta", widget: "string", optional: true}
+              - {label: "Länk", name: "link", widget: "relation", collection: "pages", searchfields: ["label", "name"], valuefield: "label"}
       - file: "src/pages/privat/index.md"
         label: "Privat"
         name: "privat"
