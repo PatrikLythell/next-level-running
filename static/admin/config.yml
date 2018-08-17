@@ -8,7 +8,7 @@ public_folder: /img
 collections:
   - name: "universal"
     label: "Startsida och mer"
-    folder: "src/pages/index/index.md"
+    file: "src/pages/index/index.md"
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "index-page"}
       - {label: "Logo", name: "logo", widget: "image"}
