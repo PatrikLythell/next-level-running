@@ -34,37 +34,44 @@ collections:
             fields:
               - {label: "Rubrik", name: "title", widget: "string", optional: true}
               - {label: "CTA", name: "cta", widget: "string", optional: true}
-              - {label: "Länk", name: "link", widget: "relation", collection: "pages", searchfields: ["label", "name"], valuefield: "label"}
+              - {label: "Länk", name: "link", widget: "relation", collection: "pages", searchFields: ["label", "name"], valueField: "label"}
       - file: "src/pages/privat/index.md"
         label: "Privat"
         name: "privat"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "privat-page"}
-          - {label: "Topptitel", name: "title", widget: "string"}
-          - {label: "Introtext", name: "intro", widget: "markdown"}
-          - {label: "CTA", name: "cta", widget: "string", optional: true}
+          - {label: "Topptitel", name: "title", widget: "string", optional: true}
+          - {label: "Introtext", name: "intro", widget: "markdown", optional: true}
+          - label: "CTA"
+            name: "cta"
+            widget: "list"
+            optional: true
+            fields:
+              - {label: "Text", name: "text", widget: "string"}
+              - {label: "URL", name: "url", widget: "string"}
           - {label: "Erbjudanderubrik", name: "offerTitle", widget: "string", optional: true}
           - label: "Erbjudanden"
             name: "offers"
             widget: "list"
             optional: true
             fields:
-              - {label: "Rubrik", name: "title", widget: "string"}
-              - {label: "Text", name: "body", widget: "text"}
+              - {label: "Rubrik", name: "title", widget: "string", optional: true}
+              - {label: "Text", name: "body", widget: "text", optional: true}
+              - {label: "Pris", name: "price", widget: "text", optional: true}
               - label: ”USP-lista”,
-                name: "usps"
+                name: "Listan under erbjudande"
                 widget: "list"
+                optional: true
                 fields:
-                  - { label: "Rubrik", name: "title", widget: "string" }
-                  - { label: "Extrainfo", name: "body", widget: "string" }
-          - {label: "Erbjudande CTA", name: "cta", widget: "string", optional: true}
-          - label: "Extrapuffar"
-            name: "boxes"
-            widget: "list"
-            optional: true
-            fields:
-              - { label: "Rubrik", name: "title", widget: "string" }
-              - {label: "CTA", name: "cta", widget: "string"}
+                  - {label: "Fetad text", name: "strongText", widget: "string", optional: true}
+                  - {label: "text", name: "text", widget: "string", optional: true}
+              - label: "CTA"
+                name: "cta"
+                widget: "list"
+                optional: true
+                fields:
+                  - {label: "Text", name: "text", widget: "string"}
+                  - {label: "URL", name: "url", widget: "string"}
           - {label: "Sluttext", name: "ending", widget: "markdown", optional: true}
 
       - file: "src/pages/foretag/index.md"
