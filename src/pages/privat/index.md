@@ -1,7 +1,7 @@
 ---
 templateKey: private-page
 title: Välkommen att springa
-intro: Fort varje dag
+intro: Fort varje dagn
 cta: För att bli glad
 offerTitle: Erbjudanden
 offers:
@@ -10,8 +10,6 @@ offers:
     usps:
       - body: Hela tiden
         title: Spring
-boxes:
-  - title: Företag
-    cta: Spring här
 ending: Tack för kaffet!
 ---
+
