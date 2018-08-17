@@ -30,37 +30,37 @@ collections:
           - label: "Extrapuffar"
             name: "boxes"
             widget: "list"
-            optional: true
+            required: false
             fields:
-              - {label: "Rubrik", name: "title", widget: "string", optional: true}
-              - {label: "CTA", name: "cta", widget: "string", optional: true}
+              - {label: "Rubrik", name: "title", widget: "string", required: false}
+              - {label: "CTA", name: "cta", widget: "string", required: false}
               - {label: "Länk", name: "link", widget: "relation", collection: "pages", searchFields: ["label", "name"], valueField: "label"}
       - file: "src/pages/privat/index.md"
         label: "Privat"
         name: "privat"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "privat-page"}
-          - {label: "Topptitel", name: "title", widget: "string", optional: true}
-          - {label: "Introtext", name: "intro", widget: "markdown", optional: true}
-          - {label: "CTA", name: "cta", widget: "string", optional: true}
-          - {label: "Erbjudanderubrik", name: "offerTitle", widget: "string", optional: true}
+          - {label: "Topptitel", name: "title", widget: "string", required: false}
+          - {label: "Introtext", name: "intro", widget: "markdown", required: false}
+          - {label: "CTA", name: "cta", widget: "string", required: false}
+          - {label: "Erbjudanderubrik", name: "offerTitle", widget: "string", required: false}
           - label: "Erbjudanden"
             name: "offers"
             widget: "list"
-            optional: true
+            required: false
             fields:
-              - {label: "Rubrik", name: "title", widget: "string", optional: true}
-              - {label: "Text", name: "body", widget: "text", optional: true}
-              - {label: "Pris", name: "price", widget: "text", optional: true}
+              - {label: "Rubrik", name: "title", widget: "string", required: false}
+              - {label: "Text", name: "body", widget: "text", required: false}
+              - {label: "Pris", name: "price", widget: "text", required: false}
               - label: ”USP-lista”,
                 name: "usps"
                 widget: "list"
-                optional: true
+                required: false
                 fields:
-                  - {label: "Rubrik", name: "title", widget: "string", optional: true}
-                  - {label: "Extrainfo", name: "body", widget: "string", optional: true}
-              - {label: "Erbjudande CTA", name: "cta", widget: "string", optional: true}
-          - {label: "Sluttext", name: "ending", widget: "markdown", optional: true}
+                  - {label: "Rubrik", name: "title", widget: "string", required: false}
+                  - {label: "Extrainfo", name: "body", widget: "string", required: false}
+              - {label: "Erbjudande CTA", name: "cta", widget: "string", required: false}
+          - {label: "Sluttext", name: "ending", widget: "markdown", required: false}
 
       - file: "src/pages/foretag/index.md"
         label: "Företag"
@@ -69,31 +69,31 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "foretag-page"}
           - {label: "Topptitel", name: "title", widget: "string"}
           - {label: "Introtext", name: "intro", widget: "markdown"}
-          - {label: "CTA", name: "cta", widget: "string", optional: true}
-          - {label: "Erbjudanderubrik", name: "offerTitle", widget: "string", optional: true}
+          - {label: "CTA", name: "cta", widget: "string", required: false}
+          - {label: "Erbjudanderubrik", name: "offerTitle", widget: "string", required: false}
           - label: "Erbjudanden"
             name: "offers"
             widget: "list"
-            optional: true
+            required: false
             fields:
-              - {label: "Rubrik", name: "title", widget: "string", optional: true}
-              - {label: "Text", name: "body", widget: "text", optional: true}
+              - {label: "Rubrik", name: "title", widget: "string", required: false}
+              - {label: "Text", name: "body", widget: "text", required: false}
               - label: ”USP-lista”,
                 name: "usps"
                 widget: "list"
-                optional: true
+                required: false
                 fields:
-                  - {label: "Rubrik", name: "title", widget: "string", optional: true}
-                  - {label: "Extrainfo", name: "body", widget: "string", optional: true}
-          - {label: "Erbjudande CTA", name: "cta", widget: "string", optional: true}
+                  - {label: "Rubrik", name: "title", widget: "string", required: false}
+                  - {label: "Extrainfo", name: "body", widget: "string", required: false}
+          - {label: "Erbjudande CTA", name: "cta", widget: "string", required: false}
           - label: "Extrapuffar"
             name: "boxes"
             widget: "list"
-            optional: true
+            required: false
             fields:
-              - {label: "Rubrik", name: "title", widget: "string", optional: true}
-              - {label: "CTA", name: "cta", widget: "string", optional: true}
-          - {label: "Sluttext", name: "ending", widget: "markdown", optional: true}
+              - {label: "Rubrik", name: "title", widget: "string", required: false}
+              - {label: "CTA", name: "cta", widget: "string", required: false}
+          - {label: "Sluttext", name: "ending", widget: "markdown", required: false}
 
       - file: "src/pages/coacher/index.md"
         label: "Coacher"
@@ -105,43 +105,43 @@ collections:
           - label: "Coacher"
             name: "coaches"
             widget: "list"
-            optional: true
+            required: false
             fields:
-              - {label: "Bild", name: "img", widget: "image", optional: true}
-              - {label: "Namn", name: "title", widget: "string", optional: true}
-              - {label: "USP", name: "usp", widget: "string", optional: true}
-              - {label: "Text", name: "text", widget: "markdown", optional: true}
-          - {label: "Sluttext", name: "ending", widget: "markdown", optional: true}
-          - {label: "CTA", name: "cta", widget: "string", optional: true}
+              - {label: "Bild", name: "img", widget: "image", required: false}
+              - {label: "Namn", name: "title", widget: "string", required: false}
+              - {label: "USP", name: "usp", widget: "string", required: false}
+              - {label: "Text", name: "text", widget: "markdown", required: false}
+          - {label: "Sluttext", name: "ending", widget: "markdown", required: false}
+          - {label: "CTA", name: "cta", widget: "string", required: false}
 
       - file: "src/pages/kontakt/index.md"
         label: "Kontakt"
         name: "kontakt"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "contact-page"}
-          - {label: "Topptitel", name: "title", widget: "string", optional: true}
-          - {label: "Introtext", name: "intro", widget: "text", optional: true}
+          - {label: "Topptitel", name: "title", widget: "string", required: false}
+          - {label: "Introtext", name: "intro", widget: "text", required: false}
           - label: "Formulär"
             name: "forms"
             widget: "list"
-            optional: true
+            required: false
             fields:
-              - {label: "Kundkategori", name: "category", widget: "string", optional: true}
+              - {label: "Kundkategori", name: "category", widget: "string", required: false}
               - label: "Fält"
                 name: "fields"
                 widget: "list"
-                optional: true
+                required: false
                 fields:
-                  - {label: "Namn", name: "name", widget: "string", optional: true}
-                  - {label: "Placeholdertext", name: "placeholder", widget: "string", optional: true}
-                  - {label: "Typ", name: "type", widget: 'select', options: ['text', 'email', 'number', 'url', 'textarea'], optional: true}
-          - {label: "CTA", name: "cta", widget: "string", optional: true}
-          - {label: "Sluttext", name: "ending", widget: "markdown", optional: true}
+                  - {label: "Namn", name: "name", widget: "string", required: false}
+                  - {label: "Placeholdertext", name: "placeholder", widget: "string", required: false}
+                  - {label: "Typ", name: "type", widget: 'select', options: ['text', 'email', 'number', 'url', 'textarea'], required: false}
+          - {label: "CTA", name: "cta", widget: "string", required: false}
+          - {label: "Sluttext", name: "ending", widget: "markdown", required: false}
 
       - file: "src/pages/nlr-trappan/index.md"
         label: "NLR-trappan"
         name: "nlr"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "nlr-page"}
-          - {label: "Title", name: "title", widget: "string", optional: true}
-          - {label: "Body", name: "body", widget: "markdown", optional: true}
+          - {label: "Title", name: "title", widget: "string", required: false}
+          - {label: "Body", name: "body", widget: "markdown", required: false}
