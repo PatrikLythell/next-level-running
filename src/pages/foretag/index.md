@@ -29,18 +29,18 @@ offers:
 
       Exempelpass:
 
-      - Koordinations- och Rörlighetsuppvärming för Löpare
 
-      - Löpteknik - Genomgång av NLR:s tre byggstenar till det effektiva
+      * Koordinations- och Rörlighetsuppvärming för Löpare
+
+      * Löpteknik - Genomgång av NLR:s tre byggstenar till det effektiva
       löpsteget
 
-      - Tekniklopp med personlig feedback i fokus
+      * Tekniklopp med personlig feedback i fokus
 
-      - Intervaller anpassade för hela gruppen
+      * Intervaller anpassade för hela gruppen
 
 
       Vi erbjuder allt från enstaka pass till längre träningsserier.
-    price: Per offert
     title: NLR Gruppträning
     cta: Hör av er idag så hjälper vi er att bli mer fullfjädrade löpare!
     usps:
@@ -64,7 +64,6 @@ offers:
       oavsett tidigare erfarenheter och nivå. 
        - Handfasta tips kopplat till hur du gör din träning effektiv och målorienterad – träningsupplägg, tävlingsupplägg och tävlingsförberedelser.
       - Frågerunda
-    price: per offert
     title: NLR Föreläsning
     cta: Hör av er idag så hjälper vi er till nästa kunskapsnivå!
     usps: []
@@ -74,7 +73,6 @@ offers:
       att fungera utmärkt för erfarna löpare såväl som totala nybörjare. Sådant
       träningsprogram kan med fördel förvandlas till en kul arbetsplatsutmaning
       och/eller kombineras med NLR gruppträning.
-    price: per offert
     title: Gruppbaserade Träningsprogram & Arbetsplatsutmaning
     cta: Hör av er idag så hjälper vi er att skapa träningsmomentum!
 ---
