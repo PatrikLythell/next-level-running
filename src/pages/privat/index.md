@@ -1,16 +1,9 @@
 ---
 templateKey: private-page
-title: Välkommen att springa
-intro: |-
-  # Say Walla
-
-  ## fdsgag
-
-  * Hej 1
-  * Hej 2
-  * Hej 3
+title: Privatperson
+intro: Ta din löpning till nästa nivå tillsammans
 cta: För att bli glad
-offerTitle: Erbjudanden
+offerTitle: Våra Erbjudanden
 offers:
   - body: Spring snabbt!
     title: Next level runner.
