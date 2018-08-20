@@ -10,7 +10,9 @@ const Header = ({ siteTitle }) => (
       <li className="mr-4">
         <Link to="/privat">Privat</Link>
       </li>
-      <li className="mr-4">Företag</li>
+      <li className="mr-4">
+        <Link to="/foretag">Företag</Link>
+      </li>
       <li className="mr-4">Coacher</li>
       <li className="mr-4">NLR-trappan</li>
       <li className="mr-4">

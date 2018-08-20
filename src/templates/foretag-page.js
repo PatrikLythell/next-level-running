@@ -1,29 +1,42 @@
 import React from 'react'
-import Content, { HTMLContent } from '../components/Content'
 
-export const ForetagPageTemplate = ({ title, content, contentComponent }) => {
+import Layout from '../layouts'
+
+import Content, { HTMLContent } from '../components/Content'
+import TextAndList from '../components/TextAndList'
+import BigBoxes from '../components/BigBoxes'
+
+export const ForetagPageTemplate = ({ title, intro, contentComponent, offers }) => {
   const PageContent = contentComponent || Content
 
+  console.log(offers[0]);
+
   return (
-    <section className="">
-      <div className="">
-        <h2 className="">
+    <Layout>
+      <div className="w-2/3">
+        <h1 className="text-5xl italic">
           {title}
-        </h2>
-        <PageContent className="content" content={content} />
+        </h1>
+        <PageContent className="content" content={intro} />
       </div>
-    </section>
+      {offers && offers.map((offer, i) =>
+        <TextAndList list={offer} key={i} />
+      )}
+    </Layout>
   )
 }
 
 const ForetagPage = ({ data }) => {
+  console.log(data);
+
   const { markdownRemark: post } = data
 
   return (
     <ForetagPageTemplate
       contentComponent={HTMLContent}
       title={post.frontmatter.title}
-      content={post.html}
+      intro={post.frontmatter.intro}
+      offers={post.frontmatter.offers}
     />
   )
 }
@@ -36,6 +49,17 @@ export const foretagPageQuery = graphql`
       html
       frontmatter {
         title
+        intro
+        offers {
+          title
+          price
+          body
+          usps {
+            title
+            body
+          }
+          cta
+        }
       }
     }
   }

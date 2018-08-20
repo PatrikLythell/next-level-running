@@ -87,8 +87,7 @@ collections:
             required: false
             fields:
               - {label: "Rubrik", name: "title", widget: "string", required: false}
-              - {label: "Text", name: "body", widget: "text", required: false}
-              - {label: "Pris", name: "price", widget: "text", required: false}
+              - {label: "Text", name: "body", widget: "markdown", required: false}
               - label: ”USP-lista”,
                 name: "usps"
                 widget: "list"
@@ -130,21 +129,23 @@ collections:
             widget: "list"
             required: false
             fields:
-              - {label: "Kundkategori", name: "category", widget: "string", required: false}
-              - label: "Fält"
-                name: "fields"
-                widget: "list"
-                required: false
-                fields:
-                  - {label: "Namn", name: "name", widget: "string", required: false}
-                  - {label: "Placeholdertext", name: "placeholder", widget: "string", required: false}
-                  - {label: "Typ", name: "type", widget: 'select', options: ['text', 'email', 'number', 'url', 'textarea'], required: false}
+              - {label: "Namn", name: "name", widget: "string", required: false}
+              - {label: "Placeholdertext", name: "placeholder", widget: "string", required: false}
+              - {label: "Typ", name: "type", widget: 'select', options: ['text', 'email', 'number', 'url', 'textarea'], required: false}
           - {label: "CTA", name: "cta", widget: "string", required: false}
           - {label: "Sluttext", name: "ending", widget: "markdown", required: false}
 
       - file: "src/pages/nlr-trappan/index.md"
         label: "NLR-trappan"
         name: "nlr"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "nlr-page"}
+          - {label: "Title", name: "title", widget: "string", required: false}
+          - {label: "Body", name: "body", widget: "markdown", required: false}
+
+      - file: "src/pages/integritetspolicy/index.md"
+        label: "Integritetspolicy"
+        name: "integritetspolicy"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "nlr-page"}
           - {label: "Title", name: "title", widget: "string", required: false}
