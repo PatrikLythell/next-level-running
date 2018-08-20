@@ -75,5 +75,6 @@ offers:
       och/eller kombineras med NLR gruppträning.
     title: Gruppbaserade Träningsprogram & Arbetsplatsutmaning
     cta: Hör av er idag så hjälper vi er att skapa träningsmomentum!
+ending: ''
 ---
 
