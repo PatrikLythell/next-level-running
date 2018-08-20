@@ -1,30 +1,70 @@
 ---
 templateKey: foretag-page
 title: VÅRT FÖRETAGSERBJUDANDE
-intro: "Vi på NLR finns till för att hjälpa och inspirera era medarbetare, oavsett förkunskaper, att ta sin löpning till nästa nivå! Våra landslagsmeriterade Löpcoacher \n\n\n\nEfter att ha anlitat oss lovar vi att deltagarna tillskansat sig teoretiska såväl som praktiska färdigheter som kommer gynna deras löpträning resten av livet. Förhoppningsvis har vi även inspirerat många ej redan löparinvigda medarbetare att upptäcka och komma igång med sin löpträning – och sedermera en mer aktiv livsstil!\r Dessutom har vi haft det jäkligt kul på vägen!"
+intro: "Next Level Running erbjuder skräddarsydda lösningar för företag och organisationer som vill erbjuda sina medarbetare roliga och givande träningstillfällen, föreläsningar och arbetsplatsutmaningar i ledning av någon av NLR:s landslagsmeriterade Löpcoacher. \n\nVi tillgodoser er med teoretiska såväl som praktiska färdigheter som kommer gynna deltagarnas löpträning resten av livet. Förhoppningsvis inspirerar vi även många ej redan löparinvigda medarbetare att upptäcka och komma igång med sin löpträning – och sedermera en mer aktiv livsstil!\r\n\nHör av er idag så tar vi er företagsträning till nästa nivå!"
 offers:
   - body: >-
-      Next Level Running erbjuder skräddarsydda lösningar för företag och
-      organisationer som vill erbjuda sina medarbetare roliga och givande
-      träningstillfällen i ledning av någon av NLR:s landslagsmeriterade
-      löpcoacher. Med coacher i världsklass, en förfinad metodik för inlärning
-      av löpteknik samt stort fokus på personlig feedback kan vi erbjuda
-      marknadens i särklass främsta löpcoaching!
+      Med coacher i världsklass, en förfinad metodik för inlärning av löpteknik
+      samt stort fokus på personlig feedback kan vi erbjuda marknadens i
+      särklass främsta löpcoaching!
 
 
-      Vi är bäst på marknaden på Löpteknik och utveckling av Löpekonomi. Alla
-      våra pass gör därför avstamp i just Löpteknik, Löpkoordination och
-      Löpstyrka – med ambitionen att ge deltagarna förutsättningar och nycklar
-      att utveckla sin löpning och lära sig uppskatta träningsformen löpning än
-      mer! 
+      Alla våra pass gör avstamp i Löpteknik, Löpkoordination och Löpstyrka –
+      med ambitionen att ge deltagarna förutsättningar och nycklar att utveckla
+      sin löpning och lära sig uppskatta träningsformen löpning än mer! Dessutom
+      kan erfarna löpare såväl som totala nybörjare dra nytta av denna approach
+      till gruppträning.
 
 
+      Exempelpass:
+
+      - Koordinations- och Rörlighetsuppvärming för Löpare
+
+      - Löpteknik - Genomgång av NLR:s tre byggstenar till det effektiva
+      löpsteget
+
+      - Tekniklopp med personlig feedback i fokus
+
+      - Intervaller anpassade för hela gruppen
 
 
-      Efter tio veckor med oss lovar vi att deltagarna har fått med sig
+      Vi erbjuder allt från enstaka pass till längre träningsserier.
     price: Per offert
-    title: Gruppbaserade Träningstillfällen
-    cta: Hör av dig idag
-  - title: Föreläsning
+    title: NLR Gruppträning
+    cta: Hör av er idag så hjälper vi er att bli mer fullfjädrade löpare!
+    usps:
+      - body: ''
+        title: ''
+  - body: >
+      LÅS UPP PROFFSENS HEMLIGHETER MED DAVID OCH TOR
+
+
+      Under en inspirerande och matnyttig föreläsning berättar 2.15 -
+      Marathonlöparen David Nilsson om sin väg till Europaeliten i långlöpning
+      samt sin fortsatta satsning mot OS 2020. Med avstamp i en elitlöpares
+      träning ämnar sedan David och Finnkampsvinnaren Tor Pöllänen att bryta ner
+      en elitlöpares träning och på ett pedagogiskt sätt ge deltagarna nycklar
+      och koncept att ta med till sin egen träning.
+
+
+      Utlovas:
+
+      - Handfasta tips kring du hittar kontinuitet och glädje i din löpträning –
+      oavsett tidigare erfarenheter och nivå. 
+       - Handfasta tips kopplat till hur du gör din träning effektiv och målorienterad – träningsupplägg, tävlingsupplägg och tävlingsförberedelser.
+      - Frågerunda
+    price: per offert
+    title: NLR Föreläsning
+    cta: Hör av er idag så hjälper vi er till nästa kunskapsnivå!
+    usps: []
+  - body: >-
+      Tränar du och dina medarbetare mot ett givet lopp? Vi på Next Level
+      Running är stjärnor på att ta fram gruppbaserade träningsupplägg utformade
+      att fungera utmärkt för erfarna löpare såväl som totala nybörjare. Sådant
+      träningsprogram kan med fördel förvandlas till en kul arbetsplatsutmaning
+      och/eller kombineras med NLR gruppträning.
+    price: per offert
+    title: Gruppbaserade Träningsprogram & Arbetsplatsutmaning
+    cta: Hör av er idag så hjälper vi er att skapa träningsmomentum!
 ---
 
