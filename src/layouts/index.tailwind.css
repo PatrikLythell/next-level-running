@@ -60,4 +60,9 @@
   * @import "utilities/background-patterns";
   * @import "utilities/skew-transforms";
   */
- 
+
+  /** User styles **/
+
+  p {
+    margin-bottom: 0.5rem;
+  }

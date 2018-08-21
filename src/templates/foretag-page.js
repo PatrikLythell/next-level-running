@@ -1,4 +1,5 @@
 import React from 'react'
+import flat from 'flat'
 
 import Layout from '../layouts'
 
@@ -6,10 +7,10 @@ import Content, { HTMLContent } from '../components/Content'
 import TextAndList from '../components/TextAndList'
 import BigBoxes from '../components/BigBoxes'
 
-export const ForetagPageTemplate = ({ title, intro, contentComponent, offers }) => {
+export const ForetagPageTemplate = ({ title, intro, contentComponent, offers, ashtml }) => {
   const PageContent = contentComponent || Content
 
-  console.log(offers[0]);
+  console.log(ashtml.offers[0]);
 
   return (
     <Layout>
@@ -20,7 +21,7 @@ export const ForetagPageTemplate = ({ title, intro, contentComponent, offers }) 
         <PageContent className="content" content={intro} />
       </div>
       {offers && offers.map((offer, i) =>
-        <TextAndList list={offer} key={i} />
+        <TextAndList list={offer} ashtml={ashtml.offers[i]} key={i} />
       )}
     </Layout>
   )
@@ -31,12 +32,15 @@ const ForetagPage = ({ data }) => {
 
   const { markdownRemark: post } = data
 
+  const ashtml = post.fields.ashtml ? flat.unflatten(JSON.parse(post.fields.ashtml)) : '';
+
   return (
     <ForetagPageTemplate
       contentComponent={HTMLContent}
       title={post.frontmatter.title}
       intro={post.frontmatter.intro}
       offers={post.frontmatter.offers}
+      ashtml={ashtml}
     />
   )
 }
@@ -47,12 +51,15 @@ export const foretagPageQuery = graphql`
   query ForetagPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       html
+      fields {
+        slug
+        ashtml
+      }
       frontmatter {
         title
         intro
         offers {
           title
-          price
           body
           usps {
             title

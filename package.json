@@ -28,8 +28,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
+    "flat": "^4.1.0",
     "prettier": "^1.13.7",
     "purgecss": "^1.0.1",
+    "remark-html": "^8.0.0",
     "tailwindcss": "^0.6.1"
   },
   "repository": {

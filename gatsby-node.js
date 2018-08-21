@@ -1,6 +1,9 @@
 const _ = require('lodash')
 const path = require('path')
 const { createFilePath } = require('gatsby-source-filesystem')
+const remark = require('remark')
+const html = require('remark-html')
+const flatten = require('flat')
 
 exports.createPages = ({ boundActionCreators, graphql }) => {
   const { createPage } = boundActionCreators
@@ -13,6 +16,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
             id
             fields {
               slug
+              ashtml
             }
             frontmatter {
               templateKey
@@ -32,6 +36,9 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
     posts.forEach(edge => {
       const id = edge.node.id
       const templateKey = edge.node.frontmatter.templateKey
+
+      console.log(edge);
+
       if (templateKey) {
         createPage({
           path: edge.node.fields.slug,
@@ -47,15 +54,36 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
   })
 }
 
-exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
-  const { createNodeField } = boundActionCreators
 
-  if (node.internal.type === `MarkdownRemark`) {
-    const value = createFilePath({ node, getNode })
-    createNodeField({
-      name: `slug`,
-      node,
-      value,
-    })
+exports.onCreateNode = ({ node, actions, getNode }) => {
+  if (node.internal.type !== 'MarkdownRemark') {
+    return;
   }
+
+  const { createNodeField } = actions;
+
+  const slug = createFilePath({ node, getNode })
+
+  createNodeField({
+    node,
+    name: `slug`,
+    value: slug,
+  })
+
+  let flattened = flatten(node.frontmatter)
+  let newArr = _.mapValues(flattened, (val) => {
+    remark()
+      .use(html)
+      .process(val, function (err, createdHTML) {
+        val = String(createdHTML)
+      })
+    return val
+  })
+  let unFlattened = flatten.unflatten(newArr)
+
+  createNodeField({
+    node,
+    name: `ashtml`,
+    value: JSON.stringify(newArr),
+  })
 }

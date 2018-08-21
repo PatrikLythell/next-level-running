@@ -1,13 +1,15 @@
 import React from 'react'
 
-const TextAndList = ({list: {title, price, body, usps, cta}}) => {
+const TextAndList = ({list: {title, price, body, usps, cta}, ashtml}) => {
   return (
     <div>
       <div className="flex items-baseline mb-2">
         <h3 className="text-5xl mr-3">{title || "Title"}</h3>
         <span className="text-2xl">{price || "price/mån"}</span>
       </div>
-      <p className="mb-3">{body || "body"}</p>
+      {body &&
+        <div className="leading-tight" dangerouslySetInnerHTML={{ __html: ashtml.body }} />
+      }
       {usps &&
         <ul>
           {usps.map((listItem, i) =>
