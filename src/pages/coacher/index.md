@@ -1,7 +1,7 @@
 ---
 templateKey: coach-page
 title: Coacher
-intro: Nedan följer...
+intro: 'På Next Level Running är vi övertygade om att '
 coaches:
   - img: /img/tor.png
     text: >-
