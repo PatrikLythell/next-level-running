@@ -3,7 +3,7 @@ templateKey: private-page
 title: VÅRT ERBJUDANDE - PRIVATPERSON
 intro: >-
   Ta din löpning till nästa nivå! Vi står redo med ett brett utbud av
-  löpcoachingorienterade tjänster. Bli medlem och låt oss hjälpa dig
+  löpcoachingorienterade tjänster i världsklass.
 cta: Kontakta oss idag
 offerTitle: Våra Erbjudanden
 offers:
