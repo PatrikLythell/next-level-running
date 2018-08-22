@@ -1,13 +1,24 @@
 ---
 templateKey: private-page
 title: VÅRT ERBJUDANDE - PRIVATPERSON
-intro: Ta din löpning till nästa nivå tillsammans
-cta: För att bli glad
+intro: >-
+  Ta din löpning till nästa nivå! Vi står redo med ett brett utbud av
+  löpcoachingorienterade tjänster. Bli medlem och låt oss hjälpa dig
+cta: Kontakta oss idag
 offerTitle: Våra Erbjudanden
 offers:
-  - body: ''
+  - body: >-
+      Vårt Medlemskap vänder sig till dig som vill ha en helhetslösning med en
+      personlig landslagsmeriterad Löpcoach som tar ansvar för din träning och
+      utveckling. Via skräddarsydda träningsprogram, kontinuerlig uppföljning
+      och eventuella PT-pass tränar vi tillsammans mot gemensamt uppsatta mål. 
+
+
+      Bland 2017 års medlemmar har 100% slagit nya prydliga personliga rekord.
+      No joke.
     price: '1495'
     title: NLR Medlemskap
+    cta: Kontakta oss idag för en kostnadsfri konsultation
     usps:
       - body: >-
           Integrera proffsens hemligheter i din träning och bli en mer
@@ -17,7 +28,43 @@ offers:
           Veckovisa samtal med din Löpcoach för uppföljning, analys och
           justering av ditt träningsprogram
         title: KONTINUERLIG UPPFÖLJNING
-      - {}
-ending: Tack för kaffet!
+      - body: >-
+          Slipa på dina färdigheter och lär dig mer via coachledda löpteknik-,
+          löpstyrke- och kvalitétspass.
+        title: PERSONLIGA TRÄNINGSTILLFÄLLEN TILL MEDLEMSPRISER
+  - body: "Utveckla ditt löpsteg och lär dig mer om effektiv löpträning tillsammans med någon av våra landslagsmeriterade löpcoacher. Under en timmes tid kommer fullt fokus ligga på att förbättra din löpteknik och göra dig till en mer fullfjädrad löpare. Passet kräver inga som helst förkunskaper utan passar lika bra för nybörjare som för mer erfarna löpare. Passets längd är cirka 70 min.\n\nInnehåll:\t\t\t\t\t\t"
+    price: 995kr
+    title: Personliga Träningstillfällen
+    usps:
+      - title: Koordinations- och Rörlighetsuppvärming för Löpare
+      - title: Löpteknik och Löpekonomi (teori och praktik)
+      - title: Analys och genomgång av deltagares löpsteg
+      - title: Löptekniklopp i intervallformat (möjlighet att springa sig trött!)
+      - title: Avslutande frågerunda och medskick inför fortsatt löpträning
+  - body: "Testa att träna som en riktig elitlöpare – Välkommen till höstens i särklass mest spektakulära träningsgrupp!\n\nMed Head Coach Tor Pöllänen i spetsen träffas vi en dag i veckan och slipar på vår löpteknik och utför ett riktigt bra intervallpass tillsammans. Inga förkunskaper krävs och passen fungerar alldeles utmärkt för elitlöpare såväl som glada motionärer.\n\n- Onsdagar, 19.00 – 20.15\n- 29/8 - 14/11 (12 tillfällen)\n- Kristinebergs IP\n- 995kr (drop-in 150kr)\n\nAnmäl dig genom att swish:a anmälningsavgiften till 123\_021 27 95"
+    price: 995kr
+    title: NYHET! Träningsgrupp Hösten 2018
+  - body: >-
+      6 - 13 februari 2019
+
+
+      Next Level Running i samarbete med Ving bjuder nu in till vinterns fetaste
+      löparresa. Tillsammans med tidigare landslagslöparen Tor Pöllänen och
+      Sveriges just nu bästa Marathonlöpare David Nilsson utlovas löpcoaching i
+      världsklass och en vecka fullspäckad med rolig och utmanande löpträning
+      för alla nivåer!
+
+
+      Under hösten kommer även ett nivåbaserat träningsprogram skickas ut till
+      deltagarna som med fördel kan följas för bästa möjliga förberedelser inför
+      resan.
+
+
+      Lägret kräver inga förkunskaper och är designat att vara roligt och
+      utvecklande för nybörjare såväl som mycket erfarna löpare.
+    price: fr. 12.540kr (rabatt för NLR-medlemmar)
+    title: 'NYHET! Träningsresa Gran Canaria tillsammans med Ving - '
+    cta: Läs mer om resan och boka på Vings hemsida
+ending: ''
 ---
 
