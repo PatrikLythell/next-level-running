@@ -27,7 +27,7 @@ coaches:
       * Främsta styrkor som Coach: Löpteknik, Drivkrafter och Målorienterad
       träning
     title: Tor Pöllänen
-    usp: Head Coach & Finnkampssegrare
+    usp: Head Coach & Fd. Landslagslöpare
   - img: /img/david.png
     text: >-
       Sveriges snabbaste Marathonlöpare år 2017. Tillsammans med sin satsning
@@ -48,7 +48,7 @@ coaches:
       * Främsta styrkor som Coach: Pulsering, Tolka kroppens signaler,
       Tävlingsförberedelser & Tävlingsgenomförande
     title: David Nilsson
-    usp: Löpcoach & VM-marathonlöpare
+    usp: Löpcoach & Landslagslöpare
   - img: /img/malin.png
     text: >-
       Längd- och trestegshopperska med över tio år i landslaget! Vid sidan av
@@ -68,16 +68,16 @@ coaches:
 
       * Främsta styrkor som Coach: Löpteknik, Personlig Feedback, Gruppträning
     title: Malin Marmbrandt
-    usp: Löpcoach och EM-längdhoppare
+    usp: Löpcoach och Landslagshoppare
   - img: /img/joni.png
     text: TBU
     title: Joni Jaako
-    usp: 'Löpcoach, Sjukgymnast & VM-löpare'
+    usp: 'Löpcoach, Sjukgymnast & Fd. Landslagslöpare'
   - img: ''
     text: TBU
     title: Marcus Hallbäck
     usp: Löpcoach & Fd. Landslagslöpare
-ending: huhuhuhuhu
-cta: huhuhu
+ending: Vi har Medaljerna - Inte Diplomen!
+cta: Kontakta oss idag!
 ---
 
