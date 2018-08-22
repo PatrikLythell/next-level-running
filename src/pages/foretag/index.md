@@ -20,11 +20,15 @@ offers:
       särklass främsta löpcoaching!
 
 
-      Alla våra pass gör avstamp i Löpteknik, Löpkoordination och Löpstyrka –
-      med ambitionen att ge deltagarna förutsättningar och nycklar att utveckla
-      sin löpning och lära sig uppskatta träningsformen löpning än mer! Dessutom
-      kan erfarna löpare såväl som totala nybörjare dra nytta av denna approach
-      till gruppträning.
+      Med avstamp i Next Level Runnings för motionärer särskilt framtagna
+      löpteknikpedagogik (Next Level Runnings tre byggstenar till det effektiva
+      löpsteget) läggs stor vikt vid utveckling av löpteknik, löpekonomi och
+      löpstyrka. Under passens andra halva ges deltagarna möjlighet att springa
+      sig riktigt trötta och testa på olika typer av roliga intervallformat.
+      Ambitionen att ge deltagarna förutsättningar och nycklar att utveckla sin
+      löpning och lära sig uppskatta träningsformen löpning än mer! Dessutom kan
+      erfarna löpare såväl som totala nybörjare dra nytta av denna approach till
+      gruppträning.
 
 
       Exempelpass:
