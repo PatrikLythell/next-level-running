@@ -82,8 +82,20 @@ coaches:
     text: TBU
     title: Joni Jaako
     usp: 'Löpcoach, Sjukgymnast & Fd. Landslagslöpare'
-  - img: ''
-    text: TBU
+  - img: /img/marcus.png
+    text: >-
+      Cyklist & Triathlet. Fd landslagslöpare.
+
+
+      Marcus är en fd 1500m-löpare som på senare år riktat in dig på cykel och
+      triathlon. Arbetar idag som coach inom löpning, cykel och triathlon
+      samtidigt som han satsar på sin egen idrottskarriär
+
+
+      Typ något sånt som text på hemsidan?
+
+
+      Personbästa 1500 3.46,97. 10k 33.28 (-17)
     title: Marcus Hallbäck
     usp: Löpcoach & Fd. Landslagslöpare
 ending: Vi har Medaljerna - Inte Diplomen!
