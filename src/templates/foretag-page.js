@@ -10,25 +10,26 @@ import BigBoxes from '../components/BigBoxes'
 export const ForetagPageTemplate = ({ title, intro, contentComponent, offers, ashtml }) => {
   const PageContent = contentComponent || Content
 
-  console.log(ashtml.offers[0]);
-
   return (
-    <Layout>
-      <div className="w-2/3">
-        <h1 className="text-5xl italic">
-          {title}
-        </h1>
-        <PageContent className="content" content={intro} />
+    <Layout header="black">
+      <div className="bg-black text-white p-4 sm:p-16 md:p-32">
+        <div className="max-w-5/6 md:w-3/5 py-1 pt-6 font-light">
+          <h1 className="sm:text-5xl italic font-extrabold break-words leading-none mb-3 mt-6">
+            {title}
+          </h1>
+          <PageContent className="content" content={intro} />
+        </div>
       </div>
-      {offers && offers.map((offer, i) =>
-        <TextAndList list={offer} ashtml={ashtml.offers[i]} key={i} />
-      )}
+      <div className="p-4 sm:p-16 md:p-32">
+        {offers && offers.map((offer, i) =>
+          <TextAndList list={offer} ashtml={ashtml.offers && ashtml.offers[i]} key={i} />
+        )}
+      </div>
     </Layout>
   )
 }
 
 const ForetagPage = ({ data }) => {
-  console.log(data);
 
   const { markdownRemark: post } = data
 

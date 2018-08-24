@@ -4,58 +4,31 @@ import { Link } from 'gatsby'
 import Layout from '../layouts'
 
 const IndexPage = () => (
-  <Layout>
-    <div className="py-16" style={{
+  <Layout header="nlr">
+    <div className="pt-16 md:pt-24" style={{
       backgroundColor: '#86E09C',
     }}>
-      <p className="pt-32 mb-32 text-center">Massive logo</p>
-      <h1 className="text-5xl leading-none text-center font-sans uppercase font-black italic">Träna som eliten</h1>
-      <h2 className="text-2xl text-center font-sans uppercase italic mt-1">Löpcoaching för dig som vill ta din löpning till nästa nivå</h2>
-      <p className="text-center font-sans mt-3">Next Level Running erbjuder skräddarsydd, effektiv och målinriktad löpcoaching av tidigare landslagslöparen Tor Pöllänen och en av Europas just nu bästa distanslöpare David Nilsson.</p>
-    </div>
-    <div>
-      <h4>Vårt erbjudande</h4>
-      <Offer />
-      <Offer />
-      <Link to="/contact">Kontakta oss idag för att se vad som passar just dig</Link>
-      <div className="flex">
-        <BoxLink />
+      <div className="z-10 relative text-center px-4">
+        <img className="mb-16 w-64 md:w-1/5" src="/img/NLR_black_small.svg" alt="Next Level Running Logo" />
+        <h1 className="text-4xl sm:text-big md:text-huge leading-none font-sans uppercase font-black italic sm:mb-4">Träna som eliten</h1>
+        <h2 className="text-xl sm:text-2xl font-sans uppercase italic mt-2">Löpcoaching för dig som vill ta din löpning till nästa nivå</h2>
+        <p className="text-center font-sans mt-3 sm:w-2/3 mx-auto leading-normal">Next Level Running erbjuder skräddarsydd, effektiv och målinriktad löpcoaching av tidigare landslagslöparen Tor Pöllänen och en av Europas just nu bästa distanslöpare David Nilsson.</p>
+      </div>
+      <div className="relative md:-mt-24">
+        <video className="w-full opacity-25 md:-mt-32" src="/img/loop-film.mp4" autoPlay="true" loop="true"></video>
+        <div className="absolute w-full pin-t md:-mt-32" style={{
+          background: 'linear-gradient(rgba(134, 224, 156, 1), rgba(134, 224, 156, 0) 75%)',
+          paddingTop: '45%'
+        }}>&nbsp;</div>
+        <div className="hover:cursor-pointer text-lg md:text-2xl pin-l text-white font-bold italic uppercase absolute text-center w-full" style={{
+          top: '40%',
+        }}>
+          <img className="inline-block w-16 md:w-32" src="/img/play.svg" alt="Spelaknapp för att starta videon"/>
+          <p className="md:mt-3">Se filmen</p>
+        </div>
       </div>
     </div>
-    <div>
-      <h2>Våra Coacher</h2>
-      <Coach />
-    </div>
-    <div>
-      <h2>Lås upp proffsens hemligheter</h2>
-      <Link to="/">Läs om vår träningsfilosofi - NLR-trappan</Link>
-    </div>
   </Layout>
-)
-
-const Offer = () => (
-  <div>
-    <p>Next Level Runner</p><span>1495:-/mån</span>
-    <ul>
-      <li>
-        <strong>Individanpassat träningsprogram</strong> - Integrera proffsens hemligheter i din träning och bli en mer fullfjädrad löpare
-      </li>
-    </ul>
-  </div>
-)
-
-const BoxLink = () => (
-  <div className="p-16 bg-nlr">
-    <p>Springa med företaget?</p>
-    <Link to="/">Se vårt erbjudande för företag</Link>
-  </div>
-)
-
-const Coach = () => (
-  <div>
-    <p>Tor Pöllänen</p>
-    <p>Löpcoach och Fd. Landslagslöpare</p>
-  </div>
 )
 
 export default IndexPage

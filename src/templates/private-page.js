@@ -1,4 +1,5 @@
 import React from 'react'
+import flat from 'flat'
 
 import Layout from '../layouts'
 
@@ -6,60 +7,42 @@ import Content, { HTMLContent } from '../components/Content'
 import TextAndList from '../components/TextAndList'
 import BigBoxes from '../components/BigBoxes'
 
-export const PrivatePageTemplate = ({ title, content, contentComponent }) => {
+export const PrivatePageTemplate = ({ title, intro, contentComponent, offers, ashtml }) => {
   const PageContent = contentComponent || Content
 
   return (
-    <Layout>
-      <div className="">
-        <h2 className="">
-          {title}
-        </h2>
-        <PageContent className="content" content={content} />
-        <TextAndList list={['hello', 'to', 'you']} />
-        <BigBoxes boxes={['box', 'box']}/>
-        <Media />
+    <Layout header="">
+      <div className="p-4 sm:p-16 md:p-32">
+        <div className="max-w-5/6 md:w-3/5 py-1 pt-6 font-light">
+          <h1 className="sm:text-5xl italic font-extrabold break-words leading-none mb-3 mt-6">
+            {title}
+          </h1>
+          <PageContent className="content" content={intro} />
+        </div>
+      </div>
+      <div className="p-4 sm:p-16 md:p-32">
+        {offers && offers.map((offer, i) =>
+          <TextAndList list={offer} ashtml={ashtml.offers && ashtml.offers[i]} key={i} />
+        )}
       </div>
     </Layout>
   )
 }
 
 const PrivatePage = ({ data }) => {
+
   const { markdownRemark: post } = data
+
+  const ashtml = post.fields.ashtml ? flat.unflatten(JSON.parse(post.fields.ashtml)) : '';
 
   return (
     <PrivatePageTemplate
       contentComponent={HTMLContent}
       title={post.frontmatter.title}
-      content={post.html}
+      intro={post.frontmatter.intro}
+      offers={post.frontmatter.offers}
+      ashtml={ashtml}
     />
-  )
-}
-
-const Media = ({img, title, body, cta, link}) => {
-  return(
-    <div className="mr-5 my-5 w-1/3">
-      {img &&
-        <img src={img.src || ''} alt={img.alt || ''}/>
-      }
-      <h4 className="uppercase italic text-2xl">{title || 'title'}</h4>
-      <p>{body || 'body'}</p>
-      {link &&
-        <a href={link}>{cta || 'cta'}</a>
-      }
-    </div>
-  )
-}
-
-const SmallPresentation = ({img, name, usp}) => {
-  return (
-    <div className="my-5 w-1/3 text-center">
-      {img &&
-        <img src={img.src || ''} alt={img.alt || ''} className="rounded-full" />
-      }
-      <h4 className="uppercase italic text-2xl">{name || 'Name'}</h4>
-      <p>{usp || 'USP'}</p>
-    </div>
   )
 }
 
@@ -69,8 +52,23 @@ export const privatePageQuery = graphql`
   query PrivatePage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       html
+      fields {
+        slug
+        ashtml
+      }
       frontmatter {
         title
+        intro
+        offers {
+          title
+          body
+          price
+          usps {
+            title
+            body
+          }
+          cta
+        }
       }
     }
   }

@@ -6,8 +6,8 @@ import "./index.css";
 
 import Header from '../components/header'
 
-const TemplateWrapper = ({ children }) => (
-  <div className="font-sans text-l sm:text-xl leading-normal">
+const TemplateWrapper = ({ children, header }) => (
+  <div className="font-sans text-md sm:text-lg leading-tight">
     <Helmet
       title="Gatsby Starter Tailwind"
       meta={[
@@ -15,7 +15,7 @@ const TemplateWrapper = ({ children }) => (
         { name: "keywords", content: "sample, something" }
       ]}
     />
-    <Header />
+    <Header header={header}/>
     {children}
   </div>
 );

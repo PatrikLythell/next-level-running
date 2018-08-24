@@ -262,6 +262,8 @@ module.exports = {
     '3xl': '1.875rem',  // 30px
     '4xl': '2.25rem',   // 36px
     '5xl': '3rem',      // 48px
+    'big': '4rem',
+    'huge': '6rem'
   },
 
 
@@ -306,7 +308,7 @@ module.exports = {
 
   leading: {
     'none': 1,
-    'tight': 1.25,
+    'tight': 1.30,
     'normal': 1.5,
     'loose': 2,
   },
@@ -874,7 +876,7 @@ module.exports = {
     borderRadius: ['responsive'],
     borderStyle: ['responsive'],
     borderWidths: ['responsive'],
-    cursor: ['responsive'],
+    cursor: ['responsive', 'hover'],
     display: ['responsive'],
     flexbox: ['responsive'],
     float: ['responsive'],
