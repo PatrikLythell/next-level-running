@@ -68,13 +68,29 @@ coaches:
       * Personbästa: Längdhopp: 6,52 – Tresteg: 13,34
 
       * Främsta Meriter: EM 2016, 14 SM-medaljer på seniornivå samt en lång rad
-      finnkamps och Lag-EM-insatser 
-
-      * Främsta styrkor som Coach: Löpteknik, Personlig Feedback, Gruppträning
+      finnkamps och Lag-EM-insatser
     title: Malin Marmbrandt
     usp: Löpcoach och Landslagshoppare
   - img: /img/joni.png
-    text: TBU
+    text: >-
+      Fd. Landslagslöpare med åtta år som landslagslöpare. Sjukgymnast med 
+
+
+      Fd. 1500-meterslöpare som de senaste åren gått över till Triathlon. Vid
+      sidan av sin sin fortsatta Triathlonsatsning coachar Marcus en rad Löpare
+      och Triathleter mot nya höjder. Marcus är dessutom en mycket uppskattad
+      grupptränare med en fantastisk förmåga till förmåga till utlärning av
+      löpteknik och löpkoordination.
+
+
+      * Senast: 
+
+      * Tidigare: Leg. Fysioterapeut
+
+      * PBs: 400m: 47,04 - 800m: 1,47,01 - 1 500m: 3.44
+
+      * Främsta Meriter: IVM 2006, EM 2010, två SM-guld och finnkampssegrare på
+      800m
     title: Joni Jaako
     usp: 'Löpcoach, Sjukgymnast & Fd. Landslagslöpare'
   - img: /img/marcus.png
