@@ -50,7 +50,10 @@ offers:
     usps:
       - body: ''
         title: ''
-  - body: >
+  - body: >-
+      ![](/img/14.jpg)
+
+
       LÅS UPP PROFFSENS HEMLIGHETER MED DAVID OCH TOR
 
 
@@ -64,10 +67,15 @@ offers:
 
       Utlovas:
 
-      - Handfasta tips kring du hittar kontinuitet och glädje i din löpträning –
+
+      * Handfasta tips kring du hittar kontinuitet och glädje i din löpträning –
       oavsett tidigare erfarenheter och nivå. 
-       - Handfasta tips kopplat till hur du gör din träning effektiv och målorienterad – träningsupplägg, tävlingsupplägg och tävlingsförberedelser.
-      - Frågerunda
+
+      * Handfasta tips kopplat till hur du gör din träning effektiv och
+      målorienterad – träningsupplägg, tävlingsupplägg och
+      tävlingsförberedelser.
+
+      * Frågerunda
     title: NLR Föreläsning
     cta: Hör av er idag så hjälper vi er till nästa kunskapsnivå!
     usps: []
