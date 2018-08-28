@@ -13,11 +13,11 @@ export const ForetagPageTemplate = ({ title, intro, contentComponent, offers, as
   return (
     <Layout header="black">
       <div className="bg-black text-white p-4 sm:p-16 md:p-32">
-        <div className="max-w-5/6 md:w-3/5 py-1 pt-6 font-light">
-          <h1 className="sm:text-5xl italic font-extrabold break-words leading-none mb-3 mt-6">
+        <div className="text-center py-1 pt-6 font-light">
+          <h1 className="sm:text-big italic font-extrabold break-words leading-none mb-3 mt-6">
             {title}
           </h1>
-          <PageContent className="content" content={intro} />
+          <PageContent className="content sm:text-2xl" content={intro} />
         </div>
       </div>
       <div className="p-4 sm:p-16 md:p-32">

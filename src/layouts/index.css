@@ -4331,6 +4331,66 @@ table {
   opacity: 1;
 }
 
+.hover\:opacity-0:hover {
+  opacity: 0;
+}
+
+.hover\:opacity-25:hover {
+  opacity: .25;
+}
+
+.hover\:opacity-50:hover {
+  opacity: .5;
+}
+
+.hover\:opacity-75:hover {
+  opacity: .75;
+}
+
+.hover\:opacity-100:hover {
+  opacity: 1;
+}
+
+.focus\:opacity-0:focus {
+  opacity: 0;
+}
+
+.focus\:opacity-25:focus {
+  opacity: .25;
+}
+
+.focus\:opacity-50:focus {
+  opacity: .5;
+}
+
+.focus\:opacity-75:focus {
+  opacity: .75;
+}
+
+.focus\:opacity-100:focus {
+  opacity: 1;
+}
+
+.active\:opacity-0:active {
+  opacity: 0;
+}
+
+.active\:opacity-25:active {
+  opacity: .25;
+}
+
+.active\:opacity-50:active {
+  opacity: .5;
+}
+
+.active\:opacity-75:active {
+  opacity: .75;
+}
+
+.active\:opacity-100:active {
+  opacity: 1;
+}
+
 .outline-none {
   outline: 0;
 }
@@ -10000,6 +10060,66 @@ p {
     opacity: 1;
   }
 
+  .sm\:hover\:opacity-0:hover {
+    opacity: 0;
+  }
+
+  .sm\:hover\:opacity-25:hover {
+    opacity: .25;
+  }
+
+  .sm\:hover\:opacity-50:hover {
+    opacity: .5;
+  }
+
+  .sm\:hover\:opacity-75:hover {
+    opacity: .75;
+  }
+
+  .sm\:hover\:opacity-100:hover {
+    opacity: 1;
+  }
+
+  .sm\:focus\:opacity-0:focus {
+    opacity: 0;
+  }
+
+  .sm\:focus\:opacity-25:focus {
+    opacity: .25;
+  }
+
+  .sm\:focus\:opacity-50:focus {
+    opacity: .5;
+  }
+
+  .sm\:focus\:opacity-75:focus {
+    opacity: .75;
+  }
+
+  .sm\:focus\:opacity-100:focus {
+    opacity: 1;
+  }
+
+  .sm\:active\:opacity-0:active {
+    opacity: 0;
+  }
+
+  .sm\:active\:opacity-25:active {
+    opacity: .25;
+  }
+
+  .sm\:active\:opacity-50:active {
+    opacity: .5;
+  }
+
+  .sm\:active\:opacity-75:active {
+    opacity: .75;
+  }
+
+  .sm\:active\:opacity-100:active {
+    opacity: 1;
+  }
+
   .sm\:overflow-auto {
     overflow: auto;
   }
@@ -15630,6 +15750,66 @@ p {
   }
 
   .md\:opacity-100 {
+    opacity: 1;
+  }
+
+  .md\:hover\:opacity-0:hover {
+    opacity: 0;
+  }
+
+  .md\:hover\:opacity-25:hover {
+    opacity: .25;
+  }
+
+  .md\:hover\:opacity-50:hover {
+    opacity: .5;
+  }
+
+  .md\:hover\:opacity-75:hover {
+    opacity: .75;
+  }
+
+  .md\:hover\:opacity-100:hover {
+    opacity: 1;
+  }
+
+  .md\:focus\:opacity-0:focus {
+    opacity: 0;
+  }
+
+  .md\:focus\:opacity-25:focus {
+    opacity: .25;
+  }
+
+  .md\:focus\:opacity-50:focus {
+    opacity: .5;
+  }
+
+  .md\:focus\:opacity-75:focus {
+    opacity: .75;
+  }
+
+  .md\:focus\:opacity-100:focus {
+    opacity: 1;
+  }
+
+  .md\:active\:opacity-0:active {
+    opacity: 0;
+  }
+
+  .md\:active\:opacity-25:active {
+    opacity: .25;
+  }
+
+  .md\:active\:opacity-50:active {
+    opacity: .5;
+  }
+
+  .md\:active\:opacity-75:active {
+    opacity: .75;
+  }
+
+  .md\:active\:opacity-100:active {
     opacity: 1;
   }
 
@@ -21266,6 +21446,66 @@ p {
     opacity: 1;
   }
 
+  .lg\:hover\:opacity-0:hover {
+    opacity: 0;
+  }
+
+  .lg\:hover\:opacity-25:hover {
+    opacity: .25;
+  }
+
+  .lg\:hover\:opacity-50:hover {
+    opacity: .5;
+  }
+
+  .lg\:hover\:opacity-75:hover {
+    opacity: .75;
+  }
+
+  .lg\:hover\:opacity-100:hover {
+    opacity: 1;
+  }
+
+  .lg\:focus\:opacity-0:focus {
+    opacity: 0;
+  }
+
+  .lg\:focus\:opacity-25:focus {
+    opacity: .25;
+  }
+
+  .lg\:focus\:opacity-50:focus {
+    opacity: .5;
+  }
+
+  .lg\:focus\:opacity-75:focus {
+    opacity: .75;
+  }
+
+  .lg\:focus\:opacity-100:focus {
+    opacity: 1;
+  }
+
+  .lg\:active\:opacity-0:active {
+    opacity: 0;
+  }
+
+  .lg\:active\:opacity-25:active {
+    opacity: .25;
+  }
+
+  .lg\:active\:opacity-50:active {
+    opacity: .5;
+  }
+
+  .lg\:active\:opacity-75:active {
+    opacity: .75;
+  }
+
+  .lg\:active\:opacity-100:active {
+    opacity: 1;
+  }
+
   .lg\:overflow-auto {
     overflow: auto;
   }
@@ -26896,6 +27136,66 @@ p {
   }
 
   .xl\:opacity-100 {
+    opacity: 1;
+  }
+
+  .xl\:hover\:opacity-0:hover {
+    opacity: 0;
+  }
+
+  .xl\:hover\:opacity-25:hover {
+    opacity: .25;
+  }
+
+  .xl\:hover\:opacity-50:hover {
+    opacity: .5;
+  }
+
+  .xl\:hover\:opacity-75:hover {
+    opacity: .75;
+  }
+
+  .xl\:hover\:opacity-100:hover {
+    opacity: 1;
+  }
+
+  .xl\:focus\:opacity-0:focus {
+    opacity: 0;
+  }
+
+  .xl\:focus\:opacity-25:focus {
+    opacity: .25;
+  }
+
+  .xl\:focus\:opacity-50:focus {
+    opacity: .5;
+  }
+
+  .xl\:focus\:opacity-75:focus {
+    opacity: .75;
+  }
+
+  .xl\:focus\:opacity-100:focus {
+    opacity: 1;
+  }
+
+  .xl\:active\:opacity-0:active {
+    opacity: 0;
+  }
+
+  .xl\:active\:opacity-25:active {
+    opacity: .25;
+  }
+
+  .xl\:active\:opacity-50:active {
+    opacity: .5;
+  }
+
+  .xl\:active\:opacity-75:active {
+    opacity: .75;
+  }
+
+  .xl\:active\:opacity-100:active {
     opacity: 1;
   }
 

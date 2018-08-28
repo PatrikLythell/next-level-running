@@ -13,11 +13,11 @@ export const CoachPageTemplate = ({ title, intro, contentComponent, coaches, ash
   return (
     <Layout header="nlr">
       <div className="bg-nlr p-4 sm:p-16 md:p-32">
-        <div className="max-w-5/6 md:w-3/5 py-1 pt-6">
-          <h1 className="sm:text-5xl italic font-extrabold break-words leading-none mb-3 mt-6 uppercase">
+        <div className="text-center py-1 pt-6 font-light">
+          <h1 className="sm:text-big italic font-extrabold break-words leading-none mb-3 mt-6 uppercase">
             {title}
           </h1>
-          <PageContent className="content" content={intro} />
+          <PageContent className="content sm:text-2xl" content={intro} />
         </div>
       </div>
       <div className="p-4 sm:p-16 md:p-32">

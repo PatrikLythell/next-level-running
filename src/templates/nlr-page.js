@@ -13,12 +13,12 @@ export const NLRPageTemplate = ({ title, body, contentComponent, ashtml }) => {
   return (
     <Layout>
       <div className="p-4 sm:p-16 md:p-32">
-        <div className="max-w-5/6 md:w-3/5 py-1 pt-6">
-          <h1 className="sm:text-5xl italic font-extrabold break-words leading-none mb-3 mt-6 uppercase">
+        <div className="text-center py-1 pt-6 font-light">
+          <h1 className="sm:text-big italic font-extrabold break-words leading-none mb-3 mt-6">
             {title}
           </h1>
-          <PageContent className="content" content={body} />
         </div>
+        <PageContent className="mt-32 content sm:text-xl" content={body} />
       </div>
     </Layout>
   )
