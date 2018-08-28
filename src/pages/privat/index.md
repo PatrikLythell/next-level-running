@@ -43,7 +43,7 @@ offers:
       - title: Avslutande frågerunda och medskick inför fortsatt löpträning
   - body: "Testa att träna som en riktig elitlöpare – Välkommen till höstens i särklass mest spektakulära träningsgrupp!\n\nMed Head Coach Tor Pöllänen i spetsen träffas vi en dag i veckan och slipar på vår löpteknik och utför ett riktigt bra intervallpass tillsammans. Inga förkunskaper krävs och passen fungerar alldeles utmärkt för elitlöpare såväl som glada motionärer.\n\n- Onsdagar, 19.00 – 20.15\n- 29/8 - 14/11 (12 tillfällen)\n- Kristinebergs IP\n- 995kr (drop-in 150kr)\n\nAnmäl dig genom att swish:a anmälningsavgiften till 123\_021 27 95"
     price: 995kr
-    title: NYHET! Träningsgrupp Hösten 2018
+    title: Träningsgrupp Hösten 2018
   - body: >-
       6 - 13 februari 2019
 
