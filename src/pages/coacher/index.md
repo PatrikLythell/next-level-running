@@ -19,7 +19,7 @@ coaches:
       Löpcoach och rådgivare till ett flertal elitlöpare såväl som motionärer.
       Känd för sitt lätta steg och välslipade löpteknik – något som Tor i hög
       utsträckning lyckas överföra till sina adepter. Hopplös tävlingsmänniska
-      med ett stort intresse för drivkrafter och personlig utveckling.
+      med ett stort intresse för drivkrafter och personlig utveckling. 
 
 
       * Senast: Business Analyst, Stockholm Live AB
@@ -32,9 +32,6 @@ coaches:
       * Främsta Meriter: Finnkampssegrare 800m (2007), Semifinalist Junior-VM
       800m (2006), Metropolitan Atlantic Association Conference Champion 400m
       (2008)
-
-      * Främsta styrkor som Coach: Löpteknik, Drivkrafter och Målorienterad
-      träning
     title: Tor Pöllänen
     usp: Head Coach & Fd. Landslagslöpare
   - img: /img/david.png
@@ -45,17 +42,15 @@ coaches:
       uppskattad och inspirerande föreläsare.
 
 
-      * Senast: VM i London 2017 – Marathon
+      * Senast: 29,03 på 10 kilometer landsväg
+
+      * Tidigare: VM i London 2017 – Marathon
 
       * Personbästa: Marathon: 2,15,40 – Halvmarathon: 1,03,34 – 10 000m: 29,03
       – 5 000m: 13,57 – Lidingöloppet 30k: 1,38,45
 
-      * Främsta Meriter: Två världsmästerskap & fyra europamästerskap. 10:e
-      plats på terräng-EM 2015. Tre gånger första svensk på Lidingöloppets
-      klassiska tremil.
-
-      * Främsta styrkor som Coach: Pulsering, Tolka kroppens signaler,
-      Tävlingsförberedelser & Tävlingsgenomförande
+      * Främsta Meriter: Två VM & fyra EM, 10:e plats på terräng-EM 2015, tre
+      gånger första svensk på Lidingöloppets klassiska tremil.
     title: David Nilsson
     usp: Löpcoach & Landslagslöpare
   - img: /img/malin.png
