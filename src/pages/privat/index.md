@@ -16,7 +16,7 @@ offers:
 
       Bland 2017 års medlemmar har 100% slagit nya prydliga personliga rekord.
       No joke.
-    price: '1495'
+    price: 1495kr
     title: NLR Medlemskap
     cta: Kontakta oss idag för en kostnadsfri konsultation
     usps:
