@@ -63,7 +63,7 @@ offers:
       Lägret kräver inga förkunskaper och är designat att vara roligt och
       utvecklande för nybörjare såväl som mycket erfarna löpare.
     price: fr. 12.540kr (rabatt för NLR-medlemmar)
-    title: NYHET! Träningsresa Gran Canaria tillsammans med Ving
+    title: Träningsresa Gran Canaria tillsammans med Ving
     cta: Läs mer om resan och boka på Vings hemsida
 ending: ''
 ---
