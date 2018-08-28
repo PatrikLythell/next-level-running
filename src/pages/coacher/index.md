@@ -84,20 +84,22 @@ coaches:
     usp: 'Löpcoach, Sjukgymnast & Fd. Landslagslöpare'
   - img: /img/marcus.png
     text: >-
-      Cyklist & Triathlet. Fd landslagslöpare.
+      Fd. 1500-meterslöpare som de senaste åren gått över till Triathlon. Vid
+      sidan av sin sin fortsatta Triathlonsatsning coachar Marcus en rad Löpare
+      och Triathleter mot nya höjder. Marcus är dessutom en mycket uppskattad
+      grupptränare med en fantastisk förmåga till förmåga till utlärning av
+      löpteknik och löpkoordination.
 
 
-      Marcus är en fd 1500m-löpare som på senare år riktat in dig på cykel och
-      triathlon. Arbetar idag som coach inom löpning, cykel och triathlon
-      samtidigt som han satsar på sin egen idrottskarriär
+      * Senast: Elitsatsande Triathlet
 
+      * Tidigare: Utbildad Endurance Personal Trainer @ Konditionsidrott 
 
-      Typ något sånt som text på hemsidan?
+      * PBs: 1 500m: 3.46 - 10 000m: 33.28
 
-
-      Personbästa 1500 3.46,97. 10k 33.28 (-17)
+      * Främsta Meriter: JEM 2011
     title: Marcus Hallbäck
-    usp: Löpcoach & Fd. Landslagslöpare
+    usp: Löp- och Triathloncoach & Fd. Landslagslöpare
 ending: Vi har Medaljerna - Inte Diplomen!
 cta: Kontakta oss idag!
 ---
