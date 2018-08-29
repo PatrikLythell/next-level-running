@@ -79,7 +79,7 @@ coaches:
       rehabilitering - stöttar NLR:s coachingstab och medlemmar med just detta!
 
 
-      * Senast: Leg. Fysioterapeut, Linköpings Universitet
+      * Leg. Fysioterapeut, Linköpings Universitet
 
       * PBs: 400m: 47,04 - 800m: 1,47,01 - 1 500m: 3.44
 
