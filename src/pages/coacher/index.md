@@ -73,14 +73,10 @@ coaches:
     usp: Löpcoach och Landslagshoppare
   - img: /img/joni.png
     text: >-
-      Fd. Landslagslöpare med åtta år som landslagslöpare. Sjukgymnast med 
-
-
-      Fd. 1500-meterslöpare som de senaste åren gått över till Triathlon. Vid
-      sidan av sin sin fortsatta Triathlonsatsning coachar Marcus en rad Löpare
-      och Triathleter mot nya höjder. Marcus är dessutom en mycket uppskattad
-      grupptränare med en fantastisk förmåga till förmåga till utlärning av
-      löpteknik och löpkoordination.
+      Med åtta år som landslagslöpare och meriter från VM och EM är Joni en
+      uppskattad Löpcoach i Linköpingområdet. Utbildad sjukgymnast med en
+      förkärlek för löparrelaterad diagnostik, skadeprevention och
+      rehabilitering. Stöttar rester
 
 
       * Senast: 
@@ -91,6 +87,8 @@ coaches:
 
       * Främsta Meriter: IVM 2006, EM 2010, två SM-guld och finnkampssegrare på
       800m
+
+      * ORT: LINKÖPING
     title: Joni Jaako
     usp: 'Löpcoach, Sjukgymnast & Fd. Landslagslöpare'
   - img: /img/marcus.png
@@ -111,7 +109,10 @@ coaches:
       * Främsta Meriter: JEM 2011
     title: Marcus Hallbäck
     usp: Löp- och Triathloncoach & Fd. Landslagslöpare
-ending: Vi har Medaljerna - Inte Diplomen!
+ending: |-
+  Vi har Medaljerna - Inte Diplomen!
+
+  [Kontakta oss idag!](https://pedantic-brattain-97237a.netlify.com/contact)
 cta: Kontakta oss idag!
 ---
 
