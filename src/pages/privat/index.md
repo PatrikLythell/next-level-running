@@ -68,6 +68,6 @@ offers:
     price: fr. 12.540kr
     title: Löparresa Gran Canaria med Ving
     cta: Läs mer om resan och boka på Vings hemsida
-ending: ''
+ending: '[Kontakta oss](https://pedantic-brattain-97237a.netlify.com/contact)'
 ---
 
