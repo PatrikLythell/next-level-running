@@ -6,4 +6,4 @@ date: 2018-08-28T18:21:44.123Z
 description: |
   Onsdagar 19.00 Kristinebergs IP
 ---
-BODY IS REQUIRED
+![](/img/nlr_träningsgrupp_höst2018.jpg)
