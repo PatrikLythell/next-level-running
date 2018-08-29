@@ -31,4 +31,4 @@ NEXT LEVEL Running bistår dig med löpande uppföljning, analys och justering a
 
 
 
-<https://pedantic-brattain-97237a.netlify.com/contact> \[INSERT LINK]
+[Hör av dig till oss idag så tar vi din löpträning till nästa nivå!](https://pedantic-brattain-97237a.netlify.com/contact)
