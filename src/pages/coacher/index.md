@@ -76,12 +76,10 @@ coaches:
       Med åtta år som landslagslöpare och meriter från VM och EM är Joni en
       uppskattad Löpcoach i Linköpingområdet. Utbildad sjukgymnast med en
       förkärlek för löparrelaterad diagnostik, skadeprevention och
-      rehabilitering. Stöttar rester
+      rehabilitering - stöttar NLR:s coachingstab och medlemmar med just detta!
 
 
-      * Senast: 
-
-      * Tidigare: Leg. Fysioterapeut
+      * Senast: Leg. Fysioterapeut, Linköpings Universitet
 
       * PBs: 400m: 47,04 - 800m: 1,47,01 - 1 500m: 3.44
 
