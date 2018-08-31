@@ -47,9 +47,7 @@ offers:
       Vi erbjuder allt från enstaka pass till längre träningsserier.
     title: NLR Gruppträning
     cta: Hör av er idag så hjälper vi er att bli mer fullfjädrade löpare!
-    usps:
-      - body: ''
-        title: ''
+    usps: []
   - body: >-
       ![](/img/14.jpg)
 
