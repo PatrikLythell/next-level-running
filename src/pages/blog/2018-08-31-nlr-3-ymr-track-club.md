@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: NLR <3 YMR Track Club
+title: Next Level Running <3 YMR Track Club
 img: /img/screen-shot-2018-08-31-at-13.14.19.png
 date: 2018-08-31T11:01:47.150Z
 description: YMR Track Club ny Samarbetspartner
