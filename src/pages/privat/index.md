@@ -11,11 +11,11 @@ offers:
       Vårt Medlemskap vänder sig till dig som vill ha en helhetslösning med en
       personlig landslagsmeriterad Löpcoach som tar ansvar för din träning och
       utveckling. Via skräddarsydda träningsprogram, kontinuerlig uppföljning
-      och eventuella PT-pass tränar vi tillsammans mot gemensamt uppsatta mål. 
+      och PT-pass tränar vi tillsammans mot gemensamt uppsatta mål. 
 
 
       Bland 2017 års medlemmar har 100% slagit nya prydliga personliga rekord.
-      No joke.
+      No joke!
     price: 1495kr
     title: NLR Medlemskap
     cta: Kontakta oss idag för en kostnadsfri konsultation
