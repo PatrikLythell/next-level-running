@@ -14,4 +14,4 @@ description: >-
 ---
 Kika in [YMR Track Club](https://ymrtrackclub.com/) schyssta löparkläder idag!
 
-![](/img/screen-shot-2018-08-31-at-13.11.22.png)
+![null](/img/screen-shot-2018-08-31-at-13.11.22.png)
