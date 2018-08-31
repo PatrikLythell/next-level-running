@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: NYHET! Löparresa till Gran Canaria tillsammans med Ving
+title: Löparresa till Gran Canaria tillsammans med Ving
 img: /img/2018-05-30_nlr_ving_banner.jpg
 date: 2018-08-28T15:38:45.739Z
 description: |
