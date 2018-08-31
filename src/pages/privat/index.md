@@ -14,7 +14,7 @@ offers:
       och PT-pass tränar vi tillsammans mot gemensamt uppsatta mål. 
 
 
-      Bland 2017 års medlemmar har 100% slagit nya prydliga personliga rekord.
+      Bland 2018 års medlemmar har 100% slagit nya prydliga personliga rekord.
       No joke!
     price: 1495kr
     title: NLR Medlemskap
