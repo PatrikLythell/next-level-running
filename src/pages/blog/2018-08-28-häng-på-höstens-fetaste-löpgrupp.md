@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Häng på Höstens Fetaste Löpgrupp!
+title: Häng på Höstens Härligaste Löpgrupp!
 img: /img/slide2.jpeg
 date: 2018-08-28T18:21:44.123Z
 description: NLR Träningsgrupp - Onsdagar 19.00 Kristinebergs IP
