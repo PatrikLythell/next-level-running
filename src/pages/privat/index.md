@@ -7,40 +7,12 @@ intro: >-
 cta: Kontakta oss idag
 offerTitle: Våra Erbjudanden
 offers:
-  - body: >-
-      Vårt Medlemskap vänder sig till dig som vill ha en helhetslösning med en
-      personlig landslagsmeriterad Löpcoach som tar ansvar för din träning och
-      utveckling. Via skräddarsydda träningsprogram, kontinuerlig uppföljning
-      och PT-pass tränar vi tillsammans mot gemensamt uppsatta mål. 
-
-
-      Bland 2018 års medlemmar har 100% slagit nya prydliga personliga rekord.
-      No joke!
+  - body: "Vårt Medlemskap vänder sig till dig som vill ha en helhetslösning med en personlig landslagsmeriterad Löpcoach som tar ansvar för din träning och utveckling. Via skräddarsydda träningsprogram, kontinuerlig uppföljning och PT-pass tränar vi tillsammans mot gemensamt uppsatta mål. \n\nBland 2018 års medlemmar har 100% slagit nya prydliga personliga rekord. No joke!\n\n* **INDIVIDANPASSAT TRÄNINGSPROGRAM** - Integrera proffsens hemligheter i din träning och bli en mer fullfjädrad löpare\r\n* **KONTINUERLIG UPPFÖLJNING** - Veckovisa samtal med din Löpcoach för uppföljning, analys och justering av ditt träningsprogram\r\n* **PERSONLIGA TRÄNINGSTILLFÄLLEN TILL MEDLEMSPRISER** - Slipa på dina färdigheter och lär dig mer via coachledda löpteknik-, löpstyrke- och kvalitétspass\n\n[Bli medlem!](https://pedantic-brattain-97237a.netlify.com/contact)"
     price: 1495kr
     title: NLR Medlemskap
-    cta: Kontakta oss idag för en kostnadsfri konsultation
-    usps:
-      - body: >-
-          Integrera proffsens hemligheter i din träning och bli en mer
-          fullfjädrad löpare
-        title: INDIVIDANPASSAT TRÄNINGSPROGRAM
-      - body: >-
-          Veckovisa samtal med din Löpcoach för uppföljning, analys och
-          justering av ditt träningsprogram
-        title: KONTINUERLIG UPPFÖLJNING
-      - body: >-
-          Slipa på dina färdigheter och lär dig mer via coachledda löpteknik-,
-          löpstyrke- och kvalitétspass.
-        title: PERSONLIGA TRÄNINGSTILLFÄLLEN TILL MEDLEMSPRISER
   - body: "Utveckla ditt löpsteg och lär dig mer om effektiv löpträning tillsammans med någon av våra landslagsmeriterade löpcoacher. Under en timmes tid kommer fullt fokus ligga på att förbättra din löpteknik och göra dig till en mer fullfjädrad löpare. Passet kräver inga som helst förkunskaper utan passar lika bra för nybörjare som för mer erfarna löpare. Passets längd är cirka 70 min.\n\nInnehåll:\t\t\t\t\t\t"
     price: 995kr
     title: Personliga Träningstillfällen
-    usps:
-      - title: Koordinations- och Rörlighetsuppvärming för Löpare
-      - title: Löpteknik och Löpekonomi (teori och praktik)
-      - title: Analys och genomgång av deltagares löpsteg
-      - title: Löptekniklopp i intervallformat (möjlighet att springa sig trött!)
-      - title: Avslutande frågerunda och medskick inför fortsatt löpträning
   - body: "Testa att träna som en riktig elitlöpare – Välkommen till höstens i särklass mest spektakulära träningsgrupp!\n\nMed Head Coach Tor Pöllänen i spetsen träffas vi en dag i veckan och slipar på vår löpteknik och utför ett riktigt bra intervallpass tillsammans. Inga förkunskaper krävs och passen fungerar alldeles utmärkt för elitlöpare såväl som glada motionärer.\n\n- Onsdagar, 19.00 – 20.15\n- 29/8 - 14/11 (12 tillfällen)\n- Kristinebergs IP\n- 995kr (drop-in 150kr)\n\nAnmäl dig genom att swish:a anmälningsavgiften till 123\_021 27 95"
     price: 995kr
     title: Träningsgrupp Hösten 2018
@@ -67,7 +39,6 @@ offers:
       Rabatterat pris för Next Level Runnings Medlemmar
     price: fr. 12.540kr
     title: Löparresa Gran Canaria med Ving
-    cta: Läs mer om resan och boka på Vings hemsida
 ending: '[Kontakta oss](https://pedantic-brattain-97237a.netlify.com/contact)'
 ---
 
