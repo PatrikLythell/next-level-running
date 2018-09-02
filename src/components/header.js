@@ -24,7 +24,7 @@ const Header = ({ siteTitle, header }) => {
           <Link to="/nlr-trappan" className={`text-${textColor} no-underline`}>NLR-trappan</Link>
         </li>
         <li className="mr-4">
-          <Link to="/contact" className={`text-${textColor} no-underline`}>Kontakt</Link>
+          <Link to="/kontakt" className={`text-${textColor} no-underline`}>Kontakt</Link>
         </li>
       </ul>
     </div>

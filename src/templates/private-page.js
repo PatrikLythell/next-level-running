@@ -62,11 +62,6 @@ export const privatePageQuery = graphql`
           title
           body
           price
-          usps {
-            title
-            body
-          }
-          cta
         }
       }
     }

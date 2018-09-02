@@ -61,11 +61,6 @@ export const foretagPageQuery = graphql`
         offers {
           title
           body
-          usps {
-            title
-            body
-          }
-          cta
         }
       }
     }

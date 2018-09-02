@@ -24,7 +24,7 @@ class IndexPage extends React.Component {
           backgroundColor: '#86E09C',
         }}>
           <div className="z-10 relative text-center px-4">
-            <img className="mb-16 w-64 w-2/5 md:w-1/5" src="/img/NLR_black_small.svg" alt="Next Level Running Logo" />
+            <img className="mb-8 md:mb-16 w-64 w-2/5 md:w-1/5" src="/img/NLR_black_small.svg" alt="Next Level Running Logo" />
             <h1 className="text-4xl sm:text-big md:text-huge leading-none font-sans uppercase font-black italic sm:mb-4">Träna som eliten</h1>
             <h2 className="text-xl sm:text-3xl font-sans uppercase italic mt-2">Löpcoaching för dig som vill ta din löpning till nästa nivå</h2>
             <p className="sm:text-xl text-center font-sans mt-3 sm:w-2/3 mx-auto leading-normal">Next Level Running erbjuder skräddarsydd, effektiv och målinriktad löpcoaching av tidigare landslagslöparen Tor Pöllänen och en av Europas just nu bästa distanslöpare David Nilsson.</p>
