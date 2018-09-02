@@ -2,7 +2,7 @@
 templateKey: nlr-page
 title: NLR-Trappan - Vår Träningsfilosofi
 ---
-![null](/img/slide1.jpeg)
+![Bild på NLR-trappan - Pulsering, Polarisering, Feedback](/img/nlr_trappan_corr.jpeg)
 
 # Pulsering
 
@@ -28,7 +28,5 @@ Att vara lyhörd och responsiv på hur våra kroppar reagerar på olika typer av
 				
 
 NEXT LEVEL Running bistår dig med löpande uppföljning, analys och justering av ditt träningsupplägg baserat på vad i din träning som fungerar allra bäst just för dig. Handfasta tips kopplat till löpteknik och löpstyrka är dessutom centrala inslag under de coachledda träningspassen. Hoppa PT:n på gymmet och lås upp proffsens hemligheter!
-
-
 
 [Hör av dig till oss idag så tar vi din löpträning till nästa nivå!](https://pedantic-brattain-97237a.netlify.com/contact)
