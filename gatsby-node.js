@@ -37,8 +37,6 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
       const id = edge.node.id
       const templateKey = edge.node.frontmatter.templateKey
 
-      console.log(edge);
-
       if (templateKey) {
         createPage({
           path: edge.node.fields.slug,

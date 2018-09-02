@@ -1,8 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { kebabCase } from 'lodash'
 import Helmet from 'react-helmet'
-import Link from 'gatsby-link'
 
 import PageContent, { HTMLContent } from '../components/Content'
 import Layout from '../layouts'
@@ -19,7 +17,7 @@ export const BlogPostTemplate = ({
     <Layout>
       {helmet || ''}
       <div className="p-4 sm:p-16 md:p-32">
-        <div className="py-1 pt-6 font-light">
+        <div className="py-1 font-light">
           <h1 className="sm:text-big italic font-extrabold break-words leading-none">
             {title}
           </h1>

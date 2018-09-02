@@ -5,7 +5,7 @@ const Header = ({ siteTitle, header }) => {
   const textColor = (header === 'black') ? 'white' : 'black';
   return (
     <div className={`overflow-scroll bg-${header}`}>
-      <ul className="list-reset flex justify-between sm:justify-start whitespace-no-wrap px-4 sm:px-16 md:px-32 py-2 sm:py-3">
+      <ul className="list-reset flex justify-between sm:justify-start whitespace-no-wrap px-4 sm:px-16 md:px-32 py-2 sm:py-3 m-0">
         <li className="mr-4">
           <Link to="/" className={`text-${textColor} no-underline font-semibold italic`}>
             <span className="font-extrabold">NL</span>R

@@ -4,17 +4,15 @@ import flat from 'flat'
 import Layout from '../layouts'
 
 import Content, { HTMLContent } from '../components/Content'
-import TextAndList from '../components/TextAndList'
-import BigBoxes from '../components/BigBoxes'
 
 export const NLRPageTemplate = ({ title, body, contentComponent, ashtml }) => {
   const PageContent = contentComponent || Content
 
   return (
     <Layout>
-      <div className="p-4 sm:p-16 md:p-32">
-        <div className="text-center py-1 pt-6 font-light">
-          <h1 className="sm:text-big italic font-extrabold break-words leading-none mb-3 mt-6">
+      <div className="pt-8 pb-8 px-4 sm:p-16 md:p-32">
+        <div className="text-center py-1 pt-6">
+          <h1 className="sm:text-big italic font-extrabold break-words leading-none uppercase">
             {title}
           </h1>
         </div>

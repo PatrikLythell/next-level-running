@@ -60,16 +60,9 @@ collections:
             required: false
             fields:
               - {label: "Rubrik", name: "title", widget: "string", required: false}
-              - {label: "Text", name: "body", widget: "text", required: false}
+              - {label: "Text", name: "body", widget: "markdown", required: false}
               - {label: "Pris", name: "price", widget: "text", required: false}
-              - label: ”USP-lista”,
-                name: "usps"
-                widget: "list"
-                required: false
-                fields:
-                  - {label: "Rubrik", name: "title", widget: "string", required: false}
-                  - {label: "Extrainfo", name: "body", widget: "string", required: false}
-              - {label: "Erbjudande CTA", name: "cta", widget: "string", required: false}
+              - {label: "Bild", name: "img", widget: "img", required: false}
           - {label: "Sluttext", name: "ending", widget: "markdown", required: false}
 
       - file: "src/pages/foretag/index.md"
@@ -88,14 +81,7 @@ collections:
             fields:
               - {label: "Rubrik", name: "title", widget: "string", required: false}
               - {label: "Text", name: "body", widget: "markdown", required: false}
-              - label: ”USP-lista”,
-                name: "usps"
-                widget: "list"
-                required: false
-                fields:
-                  - {label: "Rubrik", name: "title", widget: "string", required: false}
-                  - {label: "Extrainfo", name: "body", widget: "string", required: false}
-              - {label: "Erbjudande CTA", name: "cta", widget: "string", required: false}
+              - {label: "Bild", name: "img", widget: "img", required: false}
           - {label: "Sluttext", name: "ending", widget: "markdown", required: false}
 
       - file: "src/pages/coacher/index.md"
