@@ -31,25 +31,27 @@ offers:
       gruppträning.
 
 
-      Exempelpass:
+      **Exempelpass:**
 
 
-      * Koordinations- och Rörlighetsuppvärming för Löpare
+      * **Koordinations- och Rörlighetsuppvärming för Löpare**
 
-      * Löpteknik - Genomgång av NLR:s tre byggstenar till det effektiva
-      löpsteget
+      * **Löpteknik - Genomgång av NLR:s tre byggstenar till det effektiva
+      löpsteget**
 
-      * Tekniklopp med personlig feedback i fokus
+      * **Tekniklopp med personlig feedback i fokus**
 
-      * Intervaller anpassade för hela gruppen
+      * **Intervaller anpassade för hela gruppen**
 
 
       Vi erbjuder allt från enstaka pass till längre träningsserier.
+
+
+      [Hör av er så berättar vi
+      mer!](https://pedantic-brattain-97237a.netlify.com/contact)
     title: NLR Gruppträning
-    cta: Hör av er idag så hjälper vi er att bli mer fullfjädrade löpare!
-    usps: []
   - body: >-
-      ![](/img/14.jpg)
+      ![null](/img/14.jpg)
 
 
       LÅS UPP PROFFSENS HEMLIGHETER MED DAVID OCH TOR
@@ -63,28 +65,33 @@ offers:
       och koncept att ta med till sin egen träning.
 
 
-      Utlovas:
+      **Utlovas:**
 
 
-      * Handfasta tips kring du hittar kontinuitet och glädje i din löpträning –
-      oavsett tidigare erfarenheter och nivå. 
+      * **Handfasta tips kring du hittar kontinuitet och glädje i din löpträning
+      – oavsett tidigare erfarenheter och nivå. **
 
-      * Handfasta tips kopplat till hur du gör din träning effektiv och
+      * **Handfasta tips kopplat till hur du gör din träning effektiv och
       målorienterad – träningsupplägg, tävlingsupplägg och
-      tävlingsförberedelser.
+      tävlingsförberedelser.**
 
-      * Frågerunda
+      * **Frågerunda**
+
+
+      [Hör av er så berättar vi
+      mer!](https://pedantic-brattain-97237a.netlify.com/contact)
     title: NLR Föreläsning
-    cta: Hör av er idag så hjälper vi er till nästa kunskapsnivå!
-    usps: []
   - body: >-
       Tränar du och dina medarbetare mot ett givet lopp? Vi på Next Level
       Running är stjärnor på att ta fram gruppbaserade träningsupplägg utformade
       att fungera utmärkt för erfarna löpare såväl som totala nybörjare. Sådant
       träningsprogram kan med fördel förvandlas till en kul arbetsplatsutmaning
       och/eller kombineras med NLR gruppträning.
+
+
+      [Hör av er så berättar vi
+      mer!](https://pedantic-brattain-97237a.netlify.com/contact)
     title: Gruppbaserade Träningsprogram & Arbetsplatsutmaning
-    cta: Hör av er idag så hjälper vi er att skapa träningsmomentum!
 ending: ''
 ---
 
