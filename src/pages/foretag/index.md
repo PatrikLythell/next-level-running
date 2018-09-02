@@ -1,6 +1,6 @@
 ---
 templateKey: foretag-page
-title: VÅRT FÖRETAGSERBJUDANDE
+title: VÅRT ERBJUDANDE - FÖRETAG
 intro: >-
   Next Level Running erbjuder skräddarsydda lösningar för företag och
   organisationer som vill erbjuda sina medarbetare roliga och givande
