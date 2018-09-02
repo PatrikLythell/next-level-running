@@ -8,7 +8,7 @@ cta: Kontakta oss idag
 offerTitle: Våra Erbjudanden
 offers:
   - body: "Vårt Medlemskap vänder sig till dig som vill ha en helhetslösning med en personlig landslagsmeriterad Löpcoach som tar ansvar för din träning och utveckling. Via skräddarsydda träningsprogram, kontinuerlig uppföljning och PT-pass tränar vi tillsammans mot gemensamt uppsatta mål. \n\nBland 2018 års medlemmar har 100% slagit nya prydliga personliga rekord. No joke!\n\n* **INDIVIDANPASSAT TRÄNINGSPROGRAM** - Integrera proffsens hemligheter i din träning och bli en mer fullfjädrad löpare\r\n* **KONTINUERLIG UPPFÖLJNING** - Veckovisa samtal med din Löpcoach för uppföljning, analys och justering av ditt träningsprogram\r\n* **PERSONLIGA TRÄNINGSTILLFÄLLEN TILL MEDLEMSPRISER** - Slipa på dina färdigheter och lär dig mer via coachledda löpteknik-, löpstyrke- och kvalitétspass\n\n[Bli medlem!](https://pedantic-brattain-97237a.netlify.com/contact)"
-    price: 1495kr
+    price: 1495kr / mån
     title: NLR Medlemskap
   - body: >-
       Utveckla ditt löpsteg och lär dig mer om effektiv löpträning tillsammans
