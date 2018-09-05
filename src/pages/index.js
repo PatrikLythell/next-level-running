@@ -6,7 +6,6 @@ import Layout from '../layouts'
 class IndexPage extends React.Component {
   constructor(props) {
     super(props)
-    console.log();
     this.state = {
       video: false
     }
@@ -15,7 +14,6 @@ class IndexPage extends React.Component {
     this.setState(prevState => ({
       video: true
     }))
-    console.log(this.state.video);
   }
   render() {
     return(
