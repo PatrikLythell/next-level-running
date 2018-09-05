@@ -36,6 +36,9 @@ offers:
       [Boka pass!](https://pedantic-brattain-97237a.netlify.com/contact)
     price: 995kr
     title: Personliga Träningstillfällen
+  - body: Ge bort Personliga Träningstillfällen till någon du tycker om!
+    price: 995kr / pass
+    title: Presentkort
   - body: >-
       Testa att träna som en riktig elitlöpare – Välkommen till höstens i
       särklass mest spektakulära träningsgrupp!
