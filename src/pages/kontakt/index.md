@@ -16,7 +16,7 @@ forms:
     type: email
   - name: Telefon
     placeholder: Telefon
-    type: number
+    type: tel
   - name: Vad har du på löparhjärtat?
     placeholder: Vad har du på löparhjärtat?
     type: textarea

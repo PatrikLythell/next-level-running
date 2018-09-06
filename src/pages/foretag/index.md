@@ -49,11 +49,9 @@ offers:
 
       [Hör av er så berättar vi
       mer!](https://pedantic-brattain-97237a.netlify.com/contact)
+    img: /img/foto-2018-09-03-22-49-23.jpg
     title: NLR Gruppträning
   - body: >-
-      ![null](/img/14.jpg)
-
-
       LÅS UPP PROFFSENS HEMLIGHETER MED DAVID OCH TOR
 
 
@@ -80,6 +78,7 @@ offers:
 
       [Hör av er så berättar vi
       mer!](https://pedantic-brattain-97237a.netlify.com/contact)
+    img: /img/14.jpg
     title: NLR Föreläsning
   - body: >-
       Tränar du och dina medarbetare mot ett givet lopp? Vi på Next Level
