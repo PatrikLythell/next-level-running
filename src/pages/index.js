@@ -1,21 +1,20 @@
 import React from 'react'
-// import { Link } from 'gatsby'
+import { Link } from 'gatsby'
 
 import Layout from '../layouts'
 
 class IndexPage extends React.Component {
   constructor(props) {
     super(props)
-    console.log();
     this.state = {
       video: false
     }
+    console.log(this.props);
   }
   showVideo() {
     this.setState(prevState => ({
       video: true
     }))
-    console.log(this.state.video);
   }
   render() {
     return(
@@ -30,7 +29,7 @@ class IndexPage extends React.Component {
             <p className="sm:text-xl text-center font-sans mt-3 sm:w-2/3 mx-auto leading-normal">Next Level Running erbjuder skräddarsydd, effektiv och målinriktad löpcoaching av tidigare landslagslöparen Tor Pöllänen och en av Europas just nu bästa distanslöpare David Nilsson.</p>
           </div>
           <div className="relative md:-mt-24">
-            <video className="w-full opacity-25 md:-mt-32" src="/img/loop-film.mp4" loop muted playsInline></video>
+            <video className="w-full opacity-25 md:-mt-32" src="/img/loop-film.mp4" loop muted playsInline autoPlay></video>
             <div className="absolute w-full pin-t md:-mt-32" style={{
               background: 'linear-gradient(rgba(134, 224, 156, 1), rgba(134, 224, 156, 0) 75%)',
               paddingBottom: '56.50%'
@@ -49,17 +48,41 @@ class IndexPage extends React.Component {
           </div>
         </div>
         <div className="mt-8 px-4 sm:px-16 md:px-32 py-2 sm:py-3">
+          <div className="mb-8 p-8 sm:py-16 text-center bg-grey-darkest rounded-lg">
+            <h3 className="text-4xl sm:text-big italic font-extrabold break-words leading-none uppercase mb-2">Bli en Next Level runner idag</h3>
+            <Link to="/privat" className="sm:text-xl mt-4 text-grey">Se våra erbjudanden</Link>
+          </div>
           {/* <h2 className="pl-2 sm:text-2xl font-sans uppercase italic mt-2 flex-3">Just Nu!</h2> */}
           <div className="xl:flex">
-            { this.props.data.allMarkdownRemark.edges && this.props.data.allMarkdownRemark.edges.map((post, i) =>
-              <div className="hover:opacity-50 p-2" key={i}>
+            { this.props.data.blogPosts.edges && this.props.data.blogPosts.edges.map((post, i) =>
+              <div className="hover:opacity-50 sm:p-2" key={i}>
                 <a className="text-black no-underline p-6 border rounded block" href={post.node.fields.slug}>
-                  <h4 className="text-2xl mb-2 uppercase italic font-extrabold leading-none">{post.node.frontmatter.title}</h4>
-                  <p className="">{post.node.excerpt}</p>
-                  <p className="underline">Läs mer</p>
+                  <div className="flex flex-col">
+                    <h4 className="text-2xl mb-2 uppercase italic font-extrabold leading-none">{post.node.frontmatter.title}</h4>
+                    <p className="">{post.node.excerpt}</p>
+                    <p className="underline flex-1">Läs mer</p>
+                  </div>
                 </a>
               </div>
             )}
+          </div>
+          <div className="mt-16 p-8 sm:py-16 text-center bg-grey-darkest rounded-lg">
+            <h3 className="text-4xl sm:text-big italic font-extrabold break-words leading-none uppercase mb-2">Ta ditt företag till nästa nivå</h3>
+            <Link to="/privat" className="sm:text-xl text-grey">Vi erbjuder allt från föreläsningar till gruppträning</Link>
+          </div>
+          <div className="mt-16 py-2 sm:py-3 mb-16 text-center">
+            <h3 className="text-center uppercase italic text-3xl">Möt våra coacher</h3>
+            <div className="flex flex-wrap content-center mb-4">
+              { this.props.data.coaches.edges && this.props.data.coaches.edges.map((coach, i) =>
+                coach.node.frontmatter.coaches.map((coach, i) =>
+                  <div key={i} className="mt-4 w-1/2 md:w-1/3">
+                    <img src={coach.img} className="h-32 w-32" alt=""/>
+                    <p>{coach.title}</p>
+                  </div>
+              )
+              )}
+            </div>
+            <Link to="/coacher">Vi har medaljerna - inte diplomen</Link>
           </div>
         </div>
       </Layout>
@@ -71,7 +94,7 @@ export default IndexPage
 
 export const pageQuery = graphql`
   query IndexQuery {
-    allMarkdownRemark(
+    blogPosts: allMarkdownRemark(
       sort: { order: DESC, fields: [frontmatter___date] },
       filter: { frontmatter: { templateKey: { eq: "blog-post" } }}
     ) {
@@ -86,6 +109,22 @@ export const pageQuery = graphql`
             title
             templateKey
             date(formatString: "MMMM DD, YYYY")
+          }
+        }
+      }
+    }
+    coaches: allMarkdownRemark(
+      filter: { frontmatter: { templateKey: { eq: "coach-page" } } }
+    ) {
+      edges {
+        node {
+          frontmatter {
+            coaches {
+              img
+              text
+              title
+              usp
+            }
           }
         }
       }

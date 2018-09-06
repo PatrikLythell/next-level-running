@@ -16,7 +16,7 @@ export const NLRPageTemplate = ({ title, body, contentComponent, ashtml }) => {
             {title}
           </h1>
         </div>
-        <PageContent className="mt-32 content sm:text-xl" content={body} />
+        <PageContent className="mt-16 content sm:text-xl" content={body} />
       </div>
     </Layout>
   )

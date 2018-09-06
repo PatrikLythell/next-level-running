@@ -5,6 +5,7 @@ import Helmet from "react-helmet";
 import "./index.css";
 
 import Header from '../components/header'
+import Footer from '../components/Footer'
 
 const TemplateWrapper = ({ children, header }) => (
   <div className="font-sans text-md sm:text-lg leading-tight">
@@ -17,6 +18,7 @@ const TemplateWrapper = ({ children, header }) => (
     />
     <Header header={header}/>
     {children}
+    <Footer />
   </div>
 );
 

@@ -18,7 +18,7 @@ export const ContactPageTemplate = ({ title, intro, contentComponent, forms, ash
           <PageContent className="content sm:text-2xl md:mb-4 mt-2" content={intro} />
         </div>
       </div>
-      <form className="p-4 sm:px-16 md:px-32" method="POST" name="konsultation" action="tack" data-netlify="true">
+      <form className="p-4 sm:px-16 md:px-32 mb-16" method="POST" name="konsultation" action="/" data-netlify="true">
         {forms && forms.map((input, i) =>
           <div key={i} className="mb-4">
             <label className="block mb-1 pr-4" htmlFor={input.name}>
