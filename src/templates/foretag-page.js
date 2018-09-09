@@ -61,6 +61,7 @@ export const foretagPageQuery = graphql`
         offers {
           title
           body
+          img
         }
       }
     }

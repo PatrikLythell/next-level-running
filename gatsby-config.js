@@ -31,6 +31,14 @@ module.exports = {
         name: "markdown-pages",
       },
     },
+    {
+      resolve: `gatsby-plugin-google-fonts`,
+      options: {
+        fonts: [
+          `barlow\:400,400i,700,700i,900i` // you can also specify font weights and styles
+        ]
+      }
+    },
     'gatsby-transformer-remark',
     'gatsby-plugin-offline',
   ],

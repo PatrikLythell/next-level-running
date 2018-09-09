@@ -12,7 +12,7 @@ const Footer = ({ siteTitle, header }) => {
       <div className="flex-1">
         <ul className="list-reset">
           <li>
-            <h5 class="uppercase italic text-white">Next Level Running</h5>
+            <h5 className="uppercase italic text-white">Next Level Running</h5>
           </li>
           <li>
             <Link to="/privat" className="text-grey text-sm no-underline hover:text-nlr">Privat</Link>
@@ -37,7 +37,7 @@ const Footer = ({ siteTitle, header }) => {
       <div className="flex-1">
         <ul className="list-reset">
           <li>
-            <h5 class="uppercase italic text-white mt-4">Följ NLR</h5>
+            <h5 className="uppercase italic text-white mt-4">Följ NLR</h5>
           </li>
           <li>
             <a href="facebook.com" className="text-grey text-sm no-underline hover:text-nlr">Facebook</a>
@@ -53,7 +53,7 @@ const Footer = ({ siteTitle, header }) => {
       <div className="flex-1">
         <ul className="list-reset">
           <li>
-            <h5 class="uppercase italic text-white mt-4">Partners</h5>
+            <h5 className="uppercase italic text-white mt-4">Partners</h5>
           </li>
           <li>
             <a href="youtube" className="text-grey text-sm no-underline hover:text-nlr">YMR Track Club</a>

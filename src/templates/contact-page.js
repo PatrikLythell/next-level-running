@@ -55,7 +55,7 @@ export class ContactPageTemplate extends React.Component {
         {this.state.sent ? (
           <h2 className="text-center">Tack så mycket vi hör av oss</h2>
         ) : (
-          <form className="p-4 sm:px-16 md:px-32"
+          <form className="p-4 sm:px-16 md:px-32 mb-16"
             name="konsultation"
             method="post"
             action="/thanks/"

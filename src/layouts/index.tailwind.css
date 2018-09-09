@@ -71,3 +71,8 @@
     margin-bottom: 1rem;
     margin-top: 1rem;
   }
+
+  .nlr-page img {
+    display: block;
+    margin: 1rem auto;
+  }

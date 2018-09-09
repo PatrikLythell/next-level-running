@@ -62,6 +62,7 @@ export const privatePageQuery = graphql`
           title
           body
           price
+          img
         }
       }
     }
