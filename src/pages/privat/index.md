@@ -97,6 +97,7 @@ offers:
 
 
       [Till Resan!](https://www.ving.se/traningsresor/next-level-running)
+    img: /img/2018-05-30_nlr_ving_banner.jpg
     price: fr. 12.540kr
     title: Löparresa Gran Canaria med Ving
 ending: '[Kontakta oss](https://pedantic-brattain-97237a.netlify.com/contact)'
