@@ -10,7 +10,7 @@ intro: >-
   insikter till ett träningsupplägg som tar våra adepter till nästa nivå.
 
 
-  To be the best you got to learn from the best!
+  To be the best you have got to learn from the best!
 coaches:
   - img: /img/tor.png
     text: >-
