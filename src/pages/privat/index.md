@@ -38,7 +38,13 @@ offers:
     img: /img/foto-2018-08-29-23-40-14.jpg
     price: 995kr / pass
     title: Personliga Träningstillfällen
-  - body: Ge bort Personliga Träningstillfällen till någon du tycker om!
+  - body: |-
+      Ge bort Personliga Träningstillfällen till någon du tycker om!
+
+      * Se mer info om Personliga Träningstillfällen ovan 
+      * Går givetvis att kombinera med andra delar av vårt erbjudande
+      * Skräddarsytt Presentkort med möjlighet till Personlig Hälsning
+      * Gäller i 12 månader
     img: /img/presentkort.jpeg
     price: 995kr / pass
     title: Presentkort
