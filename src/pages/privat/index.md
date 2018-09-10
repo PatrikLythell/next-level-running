@@ -70,6 +70,7 @@ offers:
 
       [Hör av dig och boka din
       plats!](https://pedantic-brattain-97237a.netlify.com/contact)
+    img: /img/img_0647.jpg
     price: 995kr
     title: Träningsgrupp Hösten 2018
   - body: >-
