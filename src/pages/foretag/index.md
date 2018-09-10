@@ -2,10 +2,10 @@
 templateKey: foretag-page
 title: VÅRT ERBJUDANDE - FÖRETAG
 intro: >-
-  Next Level Running erbjuder **skräddarsydda lösningar** för företag och
+  Next Level Running erbjuder skräddarsydda lösningar för företag och
   organisationer som vill erbjuda sina medarbetare roliga och givande
-  **träningstillfällen, föreläsningar och arbetsplatsutmaningar** i ledning av
-  någon av **NLR:s landslagsmeriterade Löpcoacher**. 
+  träningstillfällen, föreläsningar och arbetsplatsutmaningar i ledning av
+  någon av NLR:s landslagsmeriterade Löpcoacher. 
 
 
   Vi tillgodoser er med teoretiska såväl som praktiska färdigheter som kommer
