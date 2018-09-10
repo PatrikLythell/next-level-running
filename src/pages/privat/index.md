@@ -45,6 +45,8 @@ offers:
       * Går givetvis att kombinera med andra delar av vårt erbjudande
       * Skräddarsytt Presentkort med möjlighet till Personlig Hälsning
       * Gäller i 12 månader
+
+      [Boka idag!](https://pedantic-brattain-97237a.netlify.com/kontakt)
     img: /img/presentkort.jpeg
     price: 995kr / pass
     title: Presentkort
