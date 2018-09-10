@@ -94,8 +94,8 @@ coaches:
       Fd. 1500-meterslöpare som de senaste åren gått över till Triathlon. Vid
       sidan av sin sin fortsatta Triathlonsatsning coachar Marcus en rad Löpare
       och Triathleter mot nya höjder. Marcus är dessutom en mycket uppskattad
-      grupptränare med en fantastisk förmåga till förmåga till utlärning av
-      löpteknik och löpkoordination.
+      grupptränare med en fantastisk förmåga till utlärning av löpteknik och
+      löpkoordination.
 
 
       * Senast: Elitsatsande Triathlet
