@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Next Level Running <3 YMR Track Club
-img: /img/screen-shot-2018-08-31-at-13.14.19.png
+img: /img/ymr.jpg
 date: 2018-08-31T11:01:47.150Z
 description: YMR Track Club ny Samarbetspartner
 ---
@@ -9,4 +9,4 @@ Att Next Level Running har landets bästa Löpcoacher är känt sen länge - Nu 
 
 [Heja YMR Track Club](https://ymrtrackclub.com/)!
 
-![null](/img/screen-shot-2018-08-31-at-13.11.22.png)
+![Bild Logga YMR Track Club](/img/ymr.jpg)
