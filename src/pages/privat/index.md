@@ -65,7 +65,7 @@ offers:
 
       * **Kristinebergs IP**
 
-      * **995kr (drop-in 150kr)**
+      * **995kr (drop-in 125kr)**
 
 
       [Hör av dig och boka din
