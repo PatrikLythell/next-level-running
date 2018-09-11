@@ -40,13 +40,13 @@ const Footer = ({ siteTitle, header }) => {
             <h5 className="uppercase italic text-white mt-4">Följ NLR</h5>
           </li>
           <li>
-            <a href="facebook.com" className="text-grey text-sm no-underline hover:text-nlr">Facebook</a>
+            <a href="https://facebook.com/NextLevelRunningSE/" className="text-grey text-sm no-underline hover:text-nlr">Facebook</a>
           </li>
           <li>
-            <a href="instagram" className="text-grey text-sm no-underline hover:text-nlr">Instagram</a>
+            <a href="https://www.instagram.com/nextlevelrunningse/" className="text-grey text-sm no-underline hover:text-nlr">Instagram</a>
           </li>
           <li>
-            <a href="youtube" className="text-grey text-sm no-underline hover:text-nlr">Youtube</a>
+            <a href="https://www.youtube.com/channel/UC3gybEDiotRqbBeqzlb4pxQ" className="text-grey text-sm no-underline hover:text-nlr">Youtube</a>
           </li>
         </ul>
       </div>
@@ -56,13 +56,13 @@ const Footer = ({ siteTitle, header }) => {
             <h5 className="uppercase italic text-white mt-4">Partners</h5>
           </li>
           <li>
-            <a href="youtube" className="text-grey text-sm no-underline hover:text-nlr">YMR Track Club</a>
+            <a href="https://ymrtrackclub.com/" className="text-grey text-sm no-underline hover:text-nlr">YMR Track Club</a>
           </li>
           <li>
-            <a href="youtube" className="text-grey text-sm no-underline hover:text-nlr">Mental Health Run</a>
+            <a href="https://mentalhealthrun.se/" className="text-grey text-sm no-underline hover:text-nlr">Mental Health Run</a>
           </li>
           <li>
-            <a href="youtube" className="text-grey text-sm no-underline hover:text-nlr">Ving Travel</a>
+            <a href="https://www.ving.se/" className="text-grey text-sm no-underline hover:text-nlr">Ving</a>
           </li>
         </ul>
       </div>
