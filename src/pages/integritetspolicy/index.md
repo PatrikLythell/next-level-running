@@ -1,7 +1,8 @@
 ---
+templateKey: nlr-page
 title: Integritetspolicy @ Next Level Running
 ---
-_Potentiella och faktiska kunders integritet är av yttersta vikt för oss på Next Level Running (NLR). NLR ämnar hantera personuppgifter i enlighet med EU:s integritetslagstiftning GDPR. Denna policy ämnar på ett fullödigt och transparent sätt beskriva NLR:s hantering av personuppgifter. _
+_Potentiella och faktiska kunders integritet är av yttersta vikt för oss på Next Level Running (NLR). NLR ämnar hantera personuppgifter i enlighet med EU:s integritetslagstiftning GDPR. Denna policy ämnar på ett fullödigt och transparent sätt beskriva NLR:s hantering av personuppgifter._
 
 **Ansvarig**
 

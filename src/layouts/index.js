@@ -10,10 +10,18 @@ import Footer from '../components/Footer'
 const TemplateWrapper = ({ children, header }) => (
   <div className="font-sans text-md sm:text-lg leading-tight">
     <Helmet
-      title="Gatsby Starter Tailwind"
+      title="Next Level Running"
+      link={[
+        { rel: "icon", type:"image/png", sizes:"192x192", href:"/img/favicon.png" }
+      ]}
       meta={[
-        { name: "description", content: "Sample" },
-        { name: "keywords", content: "sample, something" }
+        { name: "description", content: "Next Level Running erbjuder skräddarsydd, effektiv och målinriktad löpcoaching i nära samarbete med Tor Pöllänen - Löpcoach och fd Landslagslöpare." },
+        { name: "og:url", content: "https://nextlevelrunning.se" },
+        { name: "og:type", content: "website" },
+        { name: "og:title", content: "Träna som eliten – Ta din löpning till nästa nivå" },
+        { name: "og:description", content: "Next Level Running erbjuder skräddarsydd, effektiv och målinriktad löpcoaching i nära samarbete med Tor Pöllänen - Löpcoach och fd Landslagslöpare." },
+        { name: "og:image", content: "https://nextlevelrunning.se/img/og-image.png" },
+
       ]}
     />
     <Header header={header}/>

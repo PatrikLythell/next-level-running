@@ -12,13 +12,14 @@ class IndexPage extends React.Component {
     this.myRef = React.createRef();
   }
   showVideo() {
-    // this.setState(prevState => ({
-    //   video: true
-    // }))
     let iframe = this.myRef.current
     var requestFullScreen = iframe.requestFullScreen || iframe.mozRequestFullScreen || iframe.webkitRequestFullScreen;
     if (requestFullScreen) {
       requestFullScreen.bind(iframe)();
+    } else {
+      this.setState(prevState => ({
+        video: true
+      }))
     }
   }
   render() {
@@ -39,7 +40,7 @@ class IndexPage extends React.Component {
               background: 'linear-gradient(rgba(134, 224, 156, 1), rgba(134, 224, 156, 0) 75%)',
               paddingBottom: '56.50%'
             }}>
-              <iframe ref={this.myRef} className={`absolute pin-b`} allowFullScreen="allowfullscreen" data-v-2945ac6e="" frameBorder="0"  src="https://www.youtube.com/embed/tSXwYJK-fMs?rel=0&amp;controls=0&amp;showinfo=0" width="0" height="0" style={{
+              <iframe ref={this.myRef} className={this.state.video && `absolute pin-t z-20 max-w-full`} allowFullScreen="allowfullscreen" data-v-2945ac6e="" frameBorder="0"  src="https://www.youtube.com/embed/tSXwYJK-fMs?rel=0&amp;controls=0&amp;showinfo=0" width={this.state.video ? '100%' : 0} height={this.state.video ? '100%' : 0} style={{
                 transition: 'opacity .5s linear',
                 WebkitTransition: 'opacity .5s linear'
               }}></iframe>
