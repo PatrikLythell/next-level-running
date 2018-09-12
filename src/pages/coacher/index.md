@@ -110,7 +110,7 @@ coaches:
 ending: |-
   Vi har Medaljerna - Inte Diplomen!
 
-  [Kontakta oss idag!](https://pedantic-brattain-97237a.netlify.com/contact)
+  [Kontakta oss idag!](/kontakt)
 cta: Kontakta oss idag!
 ---
 
