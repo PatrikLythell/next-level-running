@@ -7,7 +7,29 @@ intro: >-
 cta: ''
 offerTitle: ''
 offers:
-  - body: "Vårt Medlemskap vänder sig till dig som vill ha en helhetslösning med en personlig landslagsmeriterad Löpcoach som tar ansvar för din träning och utveckling. Via skräddarsydda träningsprogram, kontinuerlig uppföljning och PT-pass tränar vi tillsammans mot gemensamt uppsatta mål. \n\nBland 2018 års medlemmar har 100% slagit nya prydliga personliga rekord. No joke!\n\n* **INDIVIDANPASSAT TRÄNINGSPROGRAM** - Integrera proffsens hemligheter i din träning och bli en mer fullfjädrad löpare\r\n* **KONTINUERLIG UPPFÖLJNING** - Veckovisa samtal med din Löpcoach för uppföljning, analys och justering av ditt träningsprogram\r\n* **PERSONLIGA TRÄNINGSTILLFÄLLEN TILL MEDLEMSPRISER** - Slipa på dina färdigheter och lär dig mer via coachledda löpteknik-, löpstyrke- och kvalitétspass\n\n[Bli medlem!](https://pedantic-brattain-97237a.netlify.com/contact)"
+  - body: >-
+      Vårt Medlemskap vänder sig till dig som vill ha en helhetslösning med en
+      personlig landslagsmeriterad Löpcoach som tar ansvar för din träning och
+      utveckling. Via skräddarsydda träningsprogram, kontinuerlig uppföljning
+      och PT-pass tränar vi tillsammans mot gemensamt uppsatta mål. 
+
+
+      Bland 2018 års medlemmar har 100% slagit nya prydliga personliga rekord.
+      No joke!
+
+
+      * **INDIVIDANPASSAT TRÄNINGSPROGRAM** - Integrera proffsens hemligheter i
+      din träning och bli en mer fullfjädrad löpare
+
+      * **KONTINUERLIG UPPFÖLJNING** - Veckovisa samtal med din Löpcoach för
+      uppföljning, analys och justering av ditt träningsprogram
+
+      * **PERSONLIGA TRÄNINGSTILLFÄLLEN TILL MEDLEMSPRISER** - Slipa på dina
+      färdigheter och lär dig mer via coachledda löpteknik-, löpstyrke- och
+      kvalitétspass
+
+
+      [Bli medlem!](/kontakt)
     img: /img/slide2.jpg
     price: 1495kr / mån
     title: NLR Medlemskap
@@ -34,7 +56,7 @@ offers:
       * Avslutande frågerunda och medskick inför fortsatt löpträning
 
 
-      [Boka pass!](https://pedantic-brattain-97237a.netlify.com/contact)
+      [Boka pass!](/kontakt)
     img: /img/foto-2018-08-29-23-40-14.jpg
     price: 995kr / pass
     title: Personliga Träningstillfällen
@@ -46,7 +68,7 @@ offers:
       * Skräddarsytt Presentkort med möjlighet till Personlig Hälsning
       * Gäller i 12 månader
 
-      [Boka idag!](https://pedantic-brattain-97237a.netlify.com/kontakt)
+      [Köp idag!](/kontakt)
     img: /img/presentkort.jpeg
     price: 995kr / pass
     title: Presentkort
@@ -70,8 +92,7 @@ offers:
       * **995kr (drop-in 125kr)**
 
 
-      [Hör av dig och boka din
-      plats!](https://pedantic-brattain-97237a.netlify.com/contact)
+      [Hör av dig och boka din plats!](/kontakt)
     img: /img/img_0647.jpg
     price: 995kr
     title: Träningsgrupp Hösten 2018
@@ -102,6 +123,6 @@ offers:
     img: /img/2018-05-30_nlr_ving_banner.jpg
     price: fr. 12.540kr
     title: Löparresa Gran Canaria med Ving
-ending: '[Kontakta oss](https://pedantic-brattain-97237a.netlify.com/contact)'
+ending: '[Kontakta oss](/kontakt)'
 ---
 
