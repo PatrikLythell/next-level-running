@@ -47,8 +47,7 @@ offers:
       Vi erbjuder allt från enstaka pass till längre träningsserier.
 
 
-      [Hör av er så berättar vi
-      mer!](https://pedantic-brattain-97237a.netlify.com/contact)
+      [Hör av er så berättar vi mer!](/kontakt)
     img: /img/foto-2018-09-03-22-49-23.jpg
     title: NLR Gruppträning
   - body: >-
@@ -76,8 +75,7 @@ offers:
       * **Frågerunda**
 
 
-      [Hör av er så berättar vi
-      mer!](https://pedantic-brattain-97237a.netlify.com/contact)
+      [Hör av er så berättar vi mer!](/kontakt)
     img: /img/14.jpg
     title: NLR Föreläsning
   - body: >-
@@ -88,8 +86,8 @@ offers:
       och/eller kombineras med NLR gruppträning.
 
 
-      [Hör av er så berättar vi
-      mer!](https://pedantic-brattain-97237a.netlify.com/contact)
+      [Hör av er så berättar vi mer!](/kontakt)
+    img: /img/NLR_black_small.svg
     title: Gruppbaserade Träningsprogram & Arbetsplatsutmaning
 ending: ''
 ---
