@@ -31,7 +31,7 @@ collections:
 
   - name: "footer"
     label: "Footer"
-    folder: "src/pages/footer/footer.md"
+    folder: "src/pages/footer/index.md"
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "footer"}
       - label: "Partners"
