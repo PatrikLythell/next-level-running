@@ -60,7 +60,7 @@ class IndexPage extends React.Component {
           </div>
         </div>
         <div className="mt-4 px-4 sm:px-16 md:px-32 py-2 sm:py-3">
-          <h3 className="mt-16 mb-8 text-2xl sm:text-4xl italic font-extrabold uppercase text-center">Erbjudanden</h3>
+          <h3 className="mt-4 lg:mt-16 mb-8 text-2xl sm:text-4xl italic font-extrabold uppercase text-center">Erbjudanden</h3>
           <div className="lg:flex">
             {
               content.offers && content.offers.map((offer, i) =>
