@@ -11,5 +11,9 @@ offers:
     img: /img/ben-stern-576115-unsplash.jpg
     link: /privat
     title: PRIVATPERSON
+  - cta: Ta din företagsträning till nästa nivå
+    img: /img/marcus.png
+    link: /foretag
+    title: FÖRETAG
 ---
 
