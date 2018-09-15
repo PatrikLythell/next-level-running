@@ -9,11 +9,11 @@ intro: >-
   i ledning av någon av våra landslagsmeriterade Löpcoacher.
 offers:
   - cta: BLI EN NEXT LEVEL RUNNER IDAG
-    img: /img/ben-stern-576115-unsplash.jpg
+    img: /img/erbjudande-ftg.jpg
     link: /privat
     title: PRIVATPERSON
   - cta: Ta din företagsträning till nästa nivå
-    img: /img/marcus.png
+    img: /img/erbjudande-privat.jpg
     link: /foretag
     title: FÖRETAG
 coachText: Vi har kul inte tråkigt
