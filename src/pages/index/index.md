@@ -15,7 +15,7 @@ offers:
     img: /img/erbjudande-privat.jpg
     link: /foretag
     title: FÖRETAG
-coachText: Vi har kul inte tråkigt
+coachText: Vi har Medaljerna - Inte Diplomen
 metaTitle: Next Level Running - Träna Som Eliten
 metaDescription: ''
 ogImage: ''
