@@ -141,3 +141,7 @@ table th {
   padding: 0;
   line-height: 33px;
 }
+
+a {
+  color: black;
+}
