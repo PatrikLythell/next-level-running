@@ -6,11 +6,11 @@ import Layout from '../layouts'
 import Content, { HTMLContent } from '../components/Content'
 import TextAndList from '../components/TextAndList'
 
-export const ForetagPageTemplate = ({ title, intro, contentComponent, offers, ashtml }) => {
+export const ForetagPageTemplate = ({ title, intro, contentComponent, offers, ashtml, meta }) => {
   const PageContent = contentComponent || Content
 
   return (
-    <Layout header="black">
+    <Layout header="black" meta={meta}>
       <div className="bg-black text-white font-light pt-8 pb-8 px-4 sm:p-16 md:p-32 mb-4 sm:mb-12">
         <div className="text-center py-1 pt-6">
           <h1 className="sm:text-big italic font-extrabold break-words leading-none uppercase">
@@ -34,6 +34,12 @@ const ForetagPage = ({ data }) => {
 
   const ashtml = post.fields.ashtml ? flat.unflatten(JSON.parse(post.fields.ashtml)) : '';
 
+  const meta = {
+    title: post.frontmatter.metaTitle && post.frontmatter.metaTitle,
+    description: post.frontmatter.metaDescription && post.frontmatter.metaDescription,
+    ogImage: post.frontmatter.ogImage && post.frontmatter.ogImage
+  }
+
   return (
     <ForetagPageTemplate
       contentComponent={HTMLContent}
@@ -41,6 +47,7 @@ const ForetagPage = ({ data }) => {
       intro={post.frontmatter.intro}
       offers={post.frontmatter.offers}
       ashtml={ashtml}
+      meta={meta}
     />
   )
 }
@@ -63,6 +70,9 @@ export const foretagPageQuery = graphql`
           body
           img
         }
+        metaTitle
+        metaDescription
+        ogImage
       }
     }
   }

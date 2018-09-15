@@ -18,6 +18,9 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Meta Title", name: "metaTitle", widget: "string", required: false}
+      - {label: "Meta Description", name: "metaDescription", widget: "string", required: false}
+      - {label: "OG:image", name: "ogImage", widget: "image", required: false}
 
   - name: "quotes"
     label: "Citat"

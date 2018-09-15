@@ -42,8 +42,13 @@ export class ContactPageTemplate extends React.Component {
 
   render() {
     const PageContent = this.props.contentComponent || Content
+    const meta = {
+      title: this.props.meta.title && this.props.meta.title,
+      description: this.props.meta.description && this.props.meta.description,
+      ogImage: this.props.meta.ogImage && this.props.meta.ogImage
+    }
     return (
-      <Layout header="">
+      <Layout header="" meta={meta}>
         <div className="pt-8 px-4 sm:p-16 md:p-32 mb-4">
           <div className="text-center py-1 pt-6">
             <h1 className="sm:text-big italic font-extrabold break-words leading-none uppercase">
@@ -104,6 +109,12 @@ const ContactPage = ({ data }) => {
 
   const ashtml = post.fields.ashtml ? flat.unflatten(JSON.parse(post.fields.ashtml)) : '';
 
+  const meta = {
+    title: post.frontmatter.metaTitle && post.frontmatter.metaTitle,
+    description: post.frontmatter.metaDescription && post.frontmatter.metaDescription,
+    ogImage: post.frontmatter.ogImage && post.frontmatter.ogImage
+  }
+
   return (
     <ContactPageTemplate
       contentComponent={HTMLContent}
@@ -111,6 +122,7 @@ const ContactPage = ({ data }) => {
       intro={post.frontmatter.intro}
       forms={post.frontmatter.forms}
       ashtml={ashtml}
+      meta={meta}
     />
   )
 }
@@ -133,6 +145,9 @@ export const contactPageQuery = graphql`
           placeholder
           type
         }
+        metaTitle
+        metaDescription
+        ogImage
       }
     }
   }

@@ -11,11 +11,11 @@ export const BlogPostTemplate = ({
   description,
   title,
   helmet,
+  meta
 }) => {
   const PostContent = contentComponent || PageContent
   return (
-    <Layout>
-      {helmet || ''}
+    <Layout meta={meta}>
       <div className="p-4 sm:p-16 md:p-32">
         <div className="py-1 font-light">
           <h1 className="sm:text-big italic font-extrabold break-words leading-none">
@@ -40,6 +40,12 @@ BlogPostTemplate.propTypes = {
 const BlogPost = ({ data }) => {
   const { markdownRemark: post } = data
 
+  const meta = {
+    title: post.frontmatter.metaTitle && post.frontmatter.metaTitle,
+    description: post.frontmatter.metaDescription && post.frontmatter.metaDescription,
+    ogImage: post.frontmatter.ogImage && post.frontmatter.ogImage
+  }
+
   return (
     <BlogPostTemplate
       content={post.html}
@@ -47,6 +53,7 @@ const BlogPost = ({ data }) => {
       description={post.frontmatter.description}
       helmet={<Helmet title={`${post.frontmatter.title} | Blog`} />}
       title={post.frontmatter.title}
+      meta={meta}
     />
   )
 }
@@ -68,6 +75,9 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         title
         description
+        metaTitle
+        metaDescription
+        ogImage
       }
     }
   }

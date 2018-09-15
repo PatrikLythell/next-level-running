@@ -24,8 +24,13 @@ class IndexPage extends React.Component {
   }
   render() {
     const content = this.props.data.indexPage.edges[0].node.frontmatter
+    const meta = {
+      title: content.metaTitle && content.metaTitle,
+      description: content.metaDescription && content.metaDescription,
+      ogImage: content.ogImage && content.ogImage
+    }
     return(
-      <Layout header="nlr">
+      <Layout header="nlr" meta={meta}>
         <div className="pt-16 md:pt-24" style={{
           backgroundColor: '#86E09C',
         }}>
@@ -59,7 +64,7 @@ class IndexPage extends React.Component {
           <div className="lg:flex">
             {
               content.offers && content.offers.map((offer, i) =>
-                <Link to={offer.link} className="w-1/2 no-underline">
+                <Link key={i} to={offer.link} className="w-1/2 no-underline">
                   <div className="text-center lg:mx-4 my-2 bg-center bg-cover flex items-center justify-center"
                        style={{
                          backgroundImage: `url(${offer.img})`,
@@ -129,6 +134,9 @@ export const pageQuery = graphql`
               cta
               link
             }
+            metaTitle
+            metaDescription
+            ogImage
           }
         }
       }

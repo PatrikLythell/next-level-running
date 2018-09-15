@@ -17,4 +17,7 @@ offers:
     link: /foretag
     title: FÖRETAG
 coachText: Vi har kul inte tråkigt
+metaTitle: Test
+metaDescription: Test
+ogImage: /img/slide1.jpeg
 ---
