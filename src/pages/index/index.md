@@ -18,6 +18,6 @@ offers:
 coachText: Vi har kul inte tråkigt
 metaTitle: Next Level Running - Träna Som Eliten
 metaDescription: ''
-ogImage: /img/slide1.jpeg
+ogImage: ''
 ---
 
