@@ -63,6 +63,9 @@ collections:
               - {label: "CTA", name: "cta", widget: "string", required: false}
               - {label: "Länk", name: "link", widget: "string", required: false}
           - {label: "Coachtext", name: "coachText", widget: "string", required: false}
+          - {label: "Meta Title", name: "metaTitle", widget: "string", required: false}
+          - {label: "Meta Description", name: "metaDescription", widget: "string", required: false}
+          - {label: "OG:image", name: "ogImage", widget: "image", required: false}
       - file: "src/pages/privat/index.md"
         label: "Privat"
         name: "privat"
@@ -82,6 +85,9 @@ collections:
               - {label: "Pris", name: "price", widget: "text", required: false}
               - {label: "Bild", name: "img", widget: "image", required: false}
           - {label: "Sluttext", name: "ending", widget: "markdown", required: false}
+          - {label: "Meta Title", name: "metaTitle", widget: "string", required: false}
+          - {label: "Meta Description", name: "metaDescription", widget: "string", required: false}
+          - {label: "OG:image", name: "ogImage", widget: "image", required: false}
 
       - file: "src/pages/foretag/index.md"
         label: "Företag"
@@ -101,6 +107,9 @@ collections:
               - {label: "Text", name: "body", widget: "markdown", required: false}
               - {label: "Bild", name: "img", widget: "image", required: false}
           - {label: "Sluttext", name: "ending", widget: "markdown", required: false}
+          - {label: "Meta Title", name: "metaTitle", widget: "string", required: false}
+          - {label: "Meta Description", name: "metaDescription", widget: "string", required: false}
+          - {label: "OG:image", name: "ogImage", widget: "image", required: false}
 
       - file: "src/pages/coacher/index.md"
         label: "Coacher"
@@ -120,6 +129,9 @@ collections:
               - {label: "Text", name: "text", widget: "markdown", required: false}
           - {label: "Sluttext", name: "ending", widget: "markdown", required: false}
           - {label: "CTA", name: "cta", widget: "string", required: false}
+          - {label: "Meta Title", name: "metaTitle", widget: "string", required: false}
+          - {label: "Meta Description", name: "metaDescription", widget: "string", required: false}
+          - {label: "OG:image", name: "ogImage", widget: "image", required: false}
 
       - file: "src/pages/kontakt/index.md"
         label: "Kontakt"
@@ -138,6 +150,9 @@ collections:
               - {label: "Typ", name: "type", widget: 'select', options: ['text', 'email', 'number', 'tel', 'url', 'textarea'], required: false}
           - {label: "CTA", name: "cta", widget: "string", required: false}
           - {label: "Sluttext", name: "ending", widget: "markdown", required: false}
+          - {label: "Meta Title", name: "metaTitle", widget: "string", required: false}
+          - {label: "Meta Description", name: "metaDescription", widget: "string", required: false}
+          - {label: "OG:image", name: "ogImage", widget: "image", required: false}
 
       - file: "src/pages/nlr-trappan/index.md"
         label: "NLR-trappan"
@@ -146,6 +161,9 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "nlr-page"}
           - {label: "Title", name: "title", widget: "string", required: false}
           - {label: "Body", name: "body", widget: "markdown", required: false}
+          - {label: "Meta Title", name: "metaTitle", widget: "string", required: false}
+          - {label: "Meta Description", name: "metaDescription", widget: "string", required: false}
+          - {label: "OG:image", name: "ogImage", widget: "image", required: false}
 
       - file: "src/pages/integritetspolicy/index.md"
         label: "Integritetspolicy"
@@ -154,3 +172,6 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "nlr-page"}
           - {label: "Title", name: "title", widget: "string", required: false}
           - {label: "Body", name: "body", widget: "markdown", required: false}
+          - {label: "Meta Title", name: "metaTitle", widget: "string", required: false}
+          - {label: "Meta Description", name: "metaDescription", widget: "string", required: false}
+          - {label: "OG:image", name: "ogImage", widget: "image", required: false}
