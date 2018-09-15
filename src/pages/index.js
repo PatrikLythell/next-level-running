@@ -56,19 +56,19 @@ class IndexPage extends React.Component {
         </div>
         <div className="mt-4 px-4 sm:px-16 md:px-32 py-2 sm:py-3">
           <h3 className="mt-16 mb-8 text-2xl sm:text-4xl italic font-extrabold uppercase text-center">Erbjudanden</h3>
-          <div className="xl:flex">
+          <div className="lg:flex">
             {
               content.offers && content.offers.map((offer, i) =>
                 <Link to={offer.link} className="w-1/2 no-underline">
-                  <div className="text-center m-4 bg-center bg-cover flex items-center justify-center"
+                  <div className="text-center lg:mx-4 my-2 bg-center bg-cover flex items-center justify-center"
                        style={{
                          backgroundImage: `url(${offer.img})`,
                          minHeight: '50vh',
                          height: '300px'
                        }}>
-                    <h3 className="text-4xl text-white italic font-extrabold uppercase">{offer.title}</h3>
+                    <h3 className="text-2xl md:text-5xl text-white italic font-extrabold uppercase">{offer.title}</h3>
                   </div>
-                  <h3 className="text-2xl text-center text-dark italic font-extrabold uppercase">{offer.cta}</h3>
+                  <p className="px-4 text-xl md:text-2xl text-center text-dark italic font-extrabold uppercase">{offer.cta}</p>
                 </Link>
               )
             }
@@ -77,7 +77,7 @@ class IndexPage extends React.Component {
           <div className="xl:flex -m-2">
             { this.props.data.blogPosts.edges && this.props.data.blogPosts.edges.map((post, i) =>
               <div className="hover:opacity-50 sm:p-2 mb-2" key={i}>
-                <a className="text-black no-underline px-6 my-4 rounded block" href={post.node.fields.slug}>
+                <a className="text-black no-underline px-2 xl:px-6 my-4 rounded block" href={post.node.fields.slug}>
                   <div className="flex flex-col">
                     <h4 className="text-2xl mb-2 uppercase italic font-extrabold leading-none">{post.node.frontmatter.title}</h4>
                     <p className="">{post.node.excerpt}</p>
