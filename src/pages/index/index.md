@@ -1,4 +1,5 @@
 ---
+name: start-page
 logo: /img/slide1.jpeg
 title: TRÄNA SOM ELITEN
 subtitle: LÖPCOACHING FÖR DIG SOM VILL TA DIN LÖPNING TILL NÄSTA NIVÅ
@@ -20,4 +21,3 @@ metaTitle: Next Level Running - Träna Som Eliten
 metaDescription: ''
 ogImage: ''
 ---
-

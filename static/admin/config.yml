@@ -52,6 +52,7 @@ collections:
         file: "src/pages/index/index.md"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "start-page"}
+          - {label: "Name", name: "name", widget: "hidden", default: "start-page"}
           - {label: "Logo", name: "logo", widget: "image"}
           - {label: "Topptitel", name: "title", widget: "string", required: false}
           - {label: "Subtitel", name: "subtitle", widget: "string", required: false}

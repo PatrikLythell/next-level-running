@@ -119,7 +119,7 @@ export default IndexPage
 export const pageQuery = graphql`
   query IndexQuery {
     indexPage: allMarkdownRemark(
-      filter: { frontmatter: { id: { eq: "start-page" } } }
+      filter: { frontmatter: { name: { eq: "start-page" } } }
     ) {
       edges {
         node {
