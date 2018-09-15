@@ -8,11 +8,11 @@ intro: >-
   i ledning av någon av våra landslagsmeriterade Löpcoacher.
 offers:
   - cta: BLI EN NEXT LEVEL RUNNER IDAG
-    img: /img/ben-stern-576115-unsplash.jpg
+    img: /img/erbjudande-ftg.jpg
     link: /privat
     title: PRIVATPERSON
   - cta: Ta din företagsträning till nästa nivå
-    img: /img/marcus.png
+    img: /img/erbjudande-privat.png
     link: /foretag
     title: FÖRETAG
 ---
