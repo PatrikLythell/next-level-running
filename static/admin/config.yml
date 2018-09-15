@@ -29,6 +29,18 @@ collections:
       - {label: "Citat", name: "quote", widget: "text", required: false}
       - {label: "Taggar", name: "tags", widget: list}
 
+  - name: "footer"
+    label: "Footer"
+    folder: "src/pages/footer/footer.md"
+    fields:
+      - label: "Partners"
+        name: "partners"
+        widget: "list"
+        required: false
+        fields:
+          - {label: "Name", name: "name", widget: "string", required: false}
+          - {label: "Länk", name: "link", widget: "string", required: false}
+
   - name: "pages"
     label: "Pages"
     files:
@@ -37,14 +49,23 @@ collections:
         file: "src/pages/index/index.md"
         fields:
           - {label: "Logo", name: "logo", widget: "image"}
-          - label: "Extrapuffar"
-            name: "boxes"
+          - {label: "Topptitel", name: "title", widget: "string", required: false}
+          - {label: "Subtitel", name: "subtitle", widget: "string", required: false}
+          - {label: "introtext", name: "intro", widget: "string", required: false}
+          - label: "Erbjudanden"
+            name: "offers"
             widget: "list"
             required: false
             fields:
+              - {label: "Bild", name: "img", widget: "image"}
               - {label: "Rubrik", name: "title", widget: "string", required: false}
               - {label: "CTA", name: "cta", widget: "string", required: false}
-              - {label: "Länk", name: "link", widget: "relation", collection: "pages", searchFields: ["label", "name"], valueField: "label"}
+              - label: "Länk"
+                name: "link"
+                widget: "relation"
+                collection: "pages"
+                searchFields: "label"
+                valueField: "label"
       - file: "src/pages/privat/index.md"
         label: "Privat"
         name: "privat"
