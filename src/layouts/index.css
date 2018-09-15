@@ -6541,6 +6541,10 @@ table th {
   line-height: 33px;
 }
 
+a {
+  color: black;
+}
+
 @media (min-width: 576px) {
   .sm\:list-reset {
     list-style: none;
