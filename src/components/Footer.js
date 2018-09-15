@@ -59,10 +59,10 @@ const Footer = ({ siteTitle, header }) => {
             <a href="https://ymrtrackclub.com/" className="text-grey text-sm no-underline hover:text-nlr">YMR Track Club</a>
           </li>
           <li>
-            <a href="https://mentalhealthrun.se/" className="text-grey text-sm no-underline hover:text-nlr">Mental Health Run</a>
+            {/* <a href="https://mentalhealthrun.se/" className="text-grey text-sm no-underline hover:text-nlr">Mental Health Run</a> */}
           </li>
           <li>
-            <a href="https://www.ving.se/" className="text-grey text-sm no-underline hover:text-nlr">Ving</a>
+            <a href="https://www.ving.se/" className="text-grey text-sm no-underline hover:text-nlr">Ving Resor</a>
           </li>
         </ul>
       </div>

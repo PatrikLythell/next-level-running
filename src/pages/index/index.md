@@ -1,4 +1,5 @@
 ---
+id: start-page
 logo: /img/slide1.jpeg
 title: TRÄNA SOM ELITEN
 subtitle: LÖPCOACHING FÖR DIG SOM VILL TA DIN LÖPNING TILL NÄSTA NIVÅ
@@ -15,5 +16,5 @@ offers:
     img: /img/marcus.png
     link: /foretag
     title: FÖRETAG
+coachText: Vi har kul inte tråkigt
 ---
-
