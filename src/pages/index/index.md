@@ -12,7 +12,7 @@ offers:
     link: /privat
     title: PRIVATPERSON
   - cta: Ta din företagsträning till nästa nivå
-    img: /img/erbjudande-privat.png
+    img: /img/erbjudande-privat.jpg
     link: /foretag
     title: FÖRETAG
 ---
