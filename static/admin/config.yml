@@ -29,22 +29,21 @@ collections:
       - {label: "Citat", name: "quote", widget: "text", required: false}
       - {label: "Taggar", name: "tags", widget: list}
 
-  - name: "footer"
-    label: "Footer"
-    folder: "src/pages/footer/index.md"
-    fields:
-      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "footer"}
-      - label: "Partners"
-        name: "partners"
-        widget: "list"
-        required: false
-        fields:
-          - {label: "Name", name: "name", widget: "string", required: false}
-          - {label: "Länk", name: "link", widget: "string", required: false}
-
   - name: "pages"
     label: "Pages"
     files:
+      - name: "footer"
+        label: "Footer"
+        file: "src/pages/footer/index.md"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "footer"}
+          - label: "Partners"
+            name: "partners"
+            widget: "list"
+            required: false
+            fields:
+              - {label: "Name", name: "name", widget: "string", required: false}
+              - {label: "Länk", name: "link", widget: "string", required: false}
       - name: "universal"
         label: "Startsida"
         file: "src/pages/index/index.md"
