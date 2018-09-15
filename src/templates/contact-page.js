@@ -44,7 +44,7 @@ export class ContactPageTemplate extends React.Component {
     const PageContent = this.props.contentComponent || Content
     return (
       <Layout header="">
-        <div className="pt-8 pb-8 px-4 sm:p-16 md:p-32 mb-4 sm:mb-12">
+        <div className="pt-8 px-4 sm:p-16 md:p-32 mb-4">
           <div className="text-center py-1 pt-6">
             <h1 className="sm:text-big italic font-extrabold break-words leading-none uppercase">
               {this.props.title}
