@@ -21,7 +21,8 @@ metaTitle: Next Level Running - Träna Som Eliten
 metaDescription: >-
   Next Level Running erbjuder skräddarsydd och målinriktad löpcoaching för
   privatpersoner och företag som vill ta sin löpning till nästa nivå! Detta i
-  ledning av någon av våra landslagsmeriterade Löpcoacher.
+  ledning av någon av våra landslagsmeriterade Löpcoacher. Ta rygg på någon av
+  våra landslagsmeriterade Löpcoacher idag!
 ogImage: ''
 ---
 
