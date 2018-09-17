@@ -20,5 +20,7 @@ forms:
   - name: Vad har du på löparhjärtat?
     placeholder: Vad har du på löparhjärtat?
     type: textarea
+metaTitle: Kontakt - Hör av dig idag!
+metaDescription: 'Kontakt och kontaktuppgifter till Next Level Running '
 ---
 
