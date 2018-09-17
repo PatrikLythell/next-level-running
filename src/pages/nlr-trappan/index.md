@@ -1,6 +1,8 @@
 ---
 templateKey: nlr-page
 title: NLR-Trappan - Vår Träningsfilosofi
+metaTitle: NLR-Trappan - Vår träningsfilosofi
+metaDescription: 'Träningsfilosofi, löpning, löpcoach'
 ---
 ![Bild på NLR-trappan - Pulsering, Polarisering, Feedback](/img/nlr_trappan_corr.jpeg)
 
