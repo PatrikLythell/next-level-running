@@ -93,7 +93,7 @@ offers:
 
 
       [Hör av dig och boka din plats!](/kontakt)
-    img: /img/img_0647.jpg
+    img: /img/löpgruppgrön.jpg
     price: 995kr
     title: Träningsgrupp Hösten 2018
   - body: >-
