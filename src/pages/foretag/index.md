@@ -90,5 +90,9 @@ offers:
     img: /img/NLR_black_small.svg
     title: Gruppbaserade Träningsprogram & Arbetsplatsutmaning
 ending: ''
+metaTitle: Erbjudande - Företag
+metaDescription: >-
+  Företagserbjudande: Gruppträning löpning, Företagsträning löpning, Föreläsning
+  löpning
 ---
 
