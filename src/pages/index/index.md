@@ -16,7 +16,7 @@ offers:
     img: /img/erbjudande-privat.jpg
     link: /foretag
     title: FÖRETAG
-coachText: Vi har Medaljerna - Inte Diplomen
+coachText: Ta rygg på någon av våra landslagasmeriterade Löpcoacher!
 metaTitle: Next Level Running - Träna Som Eliten
 metaDescription: >-
   Next Level Running erbjuder skräddarsydd och målinriktad löpcoaching för
