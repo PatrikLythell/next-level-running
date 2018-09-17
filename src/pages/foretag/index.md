@@ -87,7 +87,7 @@ offers:
 
 
       [Hör av er så berättar vi mer!](/kontakt)
-    img: /img/NLR_black_small.svg
+    img: /img/atlas.jpg
     title: Gruppbaserade Träningsprogram & Arbetsplatsutmaning
 ending: ''
 metaTitle: Erbjudande - Företag
