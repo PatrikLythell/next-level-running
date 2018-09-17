@@ -30,7 +30,7 @@ offers:
 
 
       [Bli medlem!](/kontakt)
-    img: /img/slide2.jpg
+    img: /img/grön_trappa1.jpg
     price: 1495kr / mån
     title: NLR Medlemskap
   - body: >-
