@@ -57,7 +57,7 @@ offers:
 
 
       [Boka pass!](/kontakt)
-    img: /img/foto-2018-08-29-23-40-14.jpg
+    img: /img/torptgrön.jpg
     price: 995kr / pass
     title: Personliga Träningstillfällen
   - body: |-
