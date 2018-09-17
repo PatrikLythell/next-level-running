@@ -124,5 +124,7 @@ offers:
     price: fr. 12.540kr
     title: Löparresa Gran Canaria med Ving
 ending: '[Kontakta oss](/kontakt)'
+metaTitle: Erbjudande - Privatperson
+metaDescription: 'Erbjudande: Medlemskap, PT-pass löpning, Presentkort, Löpgrupp & Löparresa'
 ---
 
