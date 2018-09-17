@@ -76,7 +76,7 @@ offers:
 
 
       [Hör av er så berättar vi mer!](/kontakt)
-    img: /img/14.jpg
+    img: /img/föreläsning.jpg
     title: NLR Föreläsning
   - body: >-
       Tränar du och dina medarbetare mot ett givet lopp? Vi på Next Level
