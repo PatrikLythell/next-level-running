@@ -48,7 +48,7 @@ offers:
 
 
       [Hör av er så berättar vi mer!](/kontakt)
-    img: /img/foto-2018-09-03-22-49-23.jpg
+    img: /img/ftggrupp.jpg
     title: NLR Gruppträning
   - body: >-
       LÅS UPP PROFFSENS HEMLIGHETER MED DAVID OCH TOR
