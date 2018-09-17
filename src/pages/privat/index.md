@@ -69,7 +69,7 @@ offers:
       * Gäller i 12 månader
 
       [Köp idag!](/kontakt)
-    img: /img/presentkort.jpeg
+    img: /img/grön_trappa2.jpg
     price: 995kr / pass
     title: Presentkort
   - body: >-
