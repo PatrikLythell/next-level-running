@@ -112,5 +112,7 @@ ending: |-
 
   [Kontakta oss idag!](/kontakt)
 cta: Kontakta oss idag!
+metaTitle: Coacher - Möt våra landslagsmeriterade Löpcoacher
+metaDescription: 'Löpcoach: Landslagsmeriterade, Löpteknik, David Nilsson, PT löpning, tränare'
 ---
 
