@@ -22,11 +22,11 @@ coaches:
       med ett stort intresse för drivkrafter och personlig utveckling. 
 
 
-      * Grundare och Head Coach - Next Level Running
+      * Grundare och Head Coach @ Next Level Running
 
       * MSc Finansiell Analys och Styrning, Handelshögskolan i Stockholm
 
-      * Personbästa: 400m: 47,68 – 800m: 1,48,18
+      * PBs: 400m: 47,68 – 800m: 1,48,18
 
       * Främsta Meriter: Finnkampsseger 800m (2007), Semifinalist Junior-VM 800m
       (2006), Metropolitan Atlantic Association Conference Champion 400m (2008)
@@ -42,8 +42,8 @@ coaches:
       och inspirerande föreläsare.
 
 
-      * Personbästa: Marathon: 2,15,40 – Halvmarathon: 1,03,34 – 10 000m: 29,03
-      – 5 000m: 13,57 – Lidingöloppet 30k: 1,38,45
+      * PBs: Marathon: 2,15,40 – Halvmarathon: 1,03,34 – 10 000m: 29,03 – 5
+      000m: 13,57 – Lidingöloppet 30k: 1,38,45
 
       * Främsta Meriter: Två VM & fyra EM, 10:e plats på terräng-EM 2015, tre
       gånger första svensk på Lidingöloppets klassiska tremil.
@@ -61,7 +61,7 @@ coaches:
 
       * BSc Business Administration and Marketing, MSc International Marketing
 
-      * Personbästa: Längdhopp: 6,52 – Tresteg: 13,34
+      * PBs: Längdhopp: 6,52 – Tresteg: 13,34
 
       * Främsta Meriter: EM 2016, 14 SM-medaljer på seniornivå samt en lång rad
       finnkamps och Lag-EM-insatser
