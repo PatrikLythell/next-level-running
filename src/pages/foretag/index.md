@@ -92,7 +92,7 @@ offers:
 ending: ''
 metaTitle: Erbjudande - Företag
 metaDescription: >-
-  Företagserbjudande: Gruppträning löpning, Företagsträning löpning, Föreläsning
-  löpning
+  Ta er företagsträning till nästa nivå! Vi erbjuder givande och skräddarsydd
+  gruppträning, föreläsningar och arbetsplatsutmaningar för alla nivåer.
 ---
 
