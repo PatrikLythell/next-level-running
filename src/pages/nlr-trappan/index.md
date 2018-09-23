@@ -2,7 +2,9 @@
 templateKey: nlr-page
 title: NLR-Trappan - Vår Träningsfilosofi
 metaTitle: NLR-Trappan - Vår träningsfilosofi
-metaDescription: 'Träningsfilosofi, löpning, löpcoach'
+metaDescription: >-
+  Elitlöparens träningsprogram tillkommer inte av en slump. Vi besitter
+  nycklarna du behöver för att din löpning till nästa nivå!
 ---
 ![Bild på NLR-trappan - Pulsering, Polarisering, Feedback](/img/nlr_trappan_corr.jpeg)
 
