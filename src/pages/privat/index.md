@@ -125,6 +125,8 @@ offers:
     title: Löparresa Gran Canaria med Ving
 ending: '[Kontakta oss](/kontakt)'
 metaTitle: Erbjudande - Privatperson
-metaDescription: 'Erbjudande: Medlemskap, PT-pass löpning, Presentkort, Löpgrupp & Löparresa'
+metaDescription: >-
+  Ta rygg på en landslagsmeriterad löpcoach idag! Vi erbjuder långsiktig
+  löpcoaching, PT-pass, medlemskap, presentkort och löparresor.
 ---
 
