@@ -8,7 +8,7 @@ intro: >-
   på hög nivå i många år! Vi kan på så sätt säkerställa att vi gör avstamp i hur
   landets absoluta topplöpare tränar och på bästa sätt transferera dessa
   insikter till ett träningsupplägg som tar våra adepter till nästa nivå. Lär
-  från de bästa redan idag!
+  från de bästa och ta din löpning till nästa nivå!
 coaches:
   - img: /img/tor.png
     text: >-
