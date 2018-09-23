@@ -21,6 +21,8 @@ forms:
     placeholder: Vad har du på löparhjärtat?
     type: textarea
 metaTitle: Kontakt - Hör av dig idag!
-metaDescription: 'Kontakt och kontaktuppgifter till Next Level Running '
+metaDescription: >-
+  Kontakt och kontaktuppgifter till Next Level Running. Vi tar din löpning till
+  nästa nivå!
 ---
 
