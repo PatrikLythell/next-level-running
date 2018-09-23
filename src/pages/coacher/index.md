@@ -7,10 +7,7 @@ intro: >-
   är nämligen landslagsmeriterade, har en gedigen elitbakgrund och har coachat
   på hög nivå i många år! Vi kan på så sätt säkerställa att vi gör avstamp i hur
   landets absoluta topplöpare tränar och på bästa sätt transferera dessa
-  insikter till ett träningsupplägg som tar våra adepter till nästa nivå.
-
-
-  To be the best you have got to learn from the best!
+  insikter till ett träningsupplägg som tar våra adepter till nästa nivå. 
 coaches:
   - img: /img/tor.png
     text: >-
