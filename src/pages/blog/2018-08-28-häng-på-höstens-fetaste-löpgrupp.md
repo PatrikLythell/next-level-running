@@ -1,21 +1,24 @@
 ---
 templateKey: blog-post
-title: Häng på Höstens Härligaste Löpgrupp!
-img: /img/slide2.jpeg
+title: Föreläsning med Coach David inför Lidingöloppet
+img: /img/NLR_black_small.svg
 date: 2018-08-28T18:21:44.123Z
-description: NLR Träningsgrupp - Onsdagar 19.00 Kristinebergs IP
+description: I samarbete med YMR Track Club
 ---
-Testa att träna som en riktig elitlöpare – Välkommen till höstens i särklass mest spektakulära träningsgrupp!
+LÖPTIPS INFÖR LIDINGÖLOPPET!
 
-Med Coach Tor Pöllänen i spetsen träffas vi en dag i veckan och slipar på vår löpteknik och utför ett riktigt bra intervallpass tillsammans. Inga förkunskaper krävs och passen fungerar alldeles utmärkt för elitlöpare såväl som glada motionärer. Passchema skickas ut inför kursstart. 
+VÄLKOMMEN TILL THE LOBBY, REGERINGSGATAN 61, FREDAG 28/9 KL 12:00-12:40
 
-* Onsdagar, 19.00 – 20.15
-* 29/8 - 14/11 (12 tillfällen)
-* Kristinebergs IP
-* 995kr (drop-in 125kr)
+Evenemanget är kostnadsfritt, anmäl dig på info@ymrtrackclub.com
 
-Anmäl dig genom att swish:a anmälningsavgiften till 123 021 27 95
+**Möjlighet att handla kollektionen från YMR Track Club till 20%.**
 
-Frågor till coach@nextlevelrunning.se
+På fredag kommer Coach David Nilsson till The Lobby, där han kommer dela med sig av tips och erfarenheter inför lördagens lopp. David har på Lidingöloppet 30km varit bäste Svensk tre gånger. Hans bästa tid på Lidingöloppet är 1:38.45 och ett pers på maraton på snabba 2:15. Med andra ord en superlöpare! 
 
-![null](/img/foto-2018-08-29-23-40-14.jpg)
+Vi bjuder på lite goda snacks som kan vara bra att preppa med inför loppet, varmt välkomna! 
+
+
+
+
+
+![null](/img/david.png)
