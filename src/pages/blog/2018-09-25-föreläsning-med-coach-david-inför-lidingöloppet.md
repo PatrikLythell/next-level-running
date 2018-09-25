@@ -4,8 +4,8 @@ title: Föreläsning med Coach David inför Lidingöloppet
 img: /img/david_mirror.png
 date: 2018-09-25T12:08:10.287Z
 description: I samarbete med YMR Track Club
-metaTitle: Ta rygg på Caoch David Nilsson
-metaDescription: Föreläsning med Coach David inför Lidingöloppet
+metaTitle: Ta rygg på Coach David Nilsson
+metaDescription: Föreläsning inför Lidingöloppet @ The Lobby
 ogImage: /img/david_mirror.png
 ---
 TA RYGG PÅ COACH DAVID NILSSON INFÖR LIDINGÖLOPPET!
