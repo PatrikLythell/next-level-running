@@ -17,8 +17,6 @@ På fredag kommer Coach David Nilsson till The Lobby, där han kommer dela med s
 
 Vi bjuder på lite goda snacks som kan vara bra att preppa med inför loppet, varmt välkomna! 
 
-
-
-
+[Kika in YMR Track Clubs schyssta retrogear!](https://ymrtrackclub.com/?c=67854e9d6971)
 
 ![null](/img/david.png)
