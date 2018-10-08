@@ -20,7 +20,8 @@ coachText: Läs mer om våra Coacher
 metaTitle: Next Level Running - Träna Som Eliten
 metaDescription: >-
   Next Level Running hjälper individer och företag att ta sin löpning till nästa
-  nivå. Ta rygg på våra landslagsmeriterade Löpcoacher idag!
+  nivå. Ta rygg på våra landslagsmeriterade Löpcoacher idag! Vi finns i
+  Stockholm och Linköping.
 ogImage: ''
 ---
 
