@@ -126,7 +126,7 @@ offers:
 ending: '[Kontakta oss](/kontakt)'
 metaTitle: Erbjudande - Privatperson
 metaDescription: >-
-  Ta rygg på en landslagsmeriterad löpcoach idag! Vi erbjuder långsiktig
+  Ta rygg på en landslagsmeriterad löpcoach idag! Vi erbjuder individuell
   löpcoaching, PT-pass, medlemskap, presentkort och löparresor.
 ---
 
