@@ -7,7 +7,7 @@ description: Ge bort roliga och utvecklande PT-timmar med oss i Julklapp!
 metaTitle: Ge bort roliga och utvecklande PT-timmar med oss i Julklapp!
 metaDescription: Julklappserbjudande Löpträning med Personlig Tränare - fokus löpteknik
 ---
-Utveckla ditt löpsteg och lär dig mer om effektiv löpträning tillsammans med någon av våra landslagsmeriterade löpcoacher. Under en timmes tid kommer fullt fokus ligga på att förbättra din löpteknik och göra dig till en mer fullfjädrad löpare. Passet kräver inga som helst förkunskaper utan passar lika bra för nybörjare som för mer erfarna löpare. Passets längd är cirka 70 min.
+Vi hjälper utövaren att utveckla sitt löpsteg och lära sig mer om effektiv löpträning tillsammans med någon av våra landslagsmeriterade löpcoacher. Under en timmes tid kommer fullt fokus ligga på att förbättra utövarens löpteknik och göra hen till en mer fullfjädrad löpare. Passet kräver inga som helst förkunskaper utan passar lika bra för nybörjare som för mer erfarna löpare. Passets längd är cirka 70 min.
 
 Innehåll:
 
@@ -23,5 +23,9 @@ Pris:
 
 * Ett pass 895kr (ord. 995kr)
 * Tre pass 2475 (ord. 2985kr)
+
+[Klicka här Bokning och Frågor!](https://www.nextlevelrunning.se/kontakt)
+
+
 
 ![Next Level Running Siluett](/img/nlr_dec18-20181208-067_double2-ig.jpg)
