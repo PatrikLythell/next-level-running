@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: NLR-presentkort i Julklapp - Julerbjudande
+title: NLR-presentkort - Julerbjudande
 img: /img/nlr_dec18-20181208-067_double2-ig.jpg
 date: 2018-12-13T13:34:23.016Z
 description: Ge bort roliga och utvecklande PT-timmar med oss i Julklapp!
