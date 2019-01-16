@@ -97,32 +97,21 @@ offers:
     price: 995kr
     title: Träningsgrupp Hösten 2018
   - body: >-
-      6 - 13 februari 2019
+      Hösten 2019 - Inför Lidingöloppet
 
 
-      Next Level Running i samarbete med Ving bjuder nu in till vinterns fetaste
-      löparresa. Tillsammans med tidigare landslagslöparen Tor Pöllänen och
-      Sveriges just nu bästa Marathonlöpare David Nilsson utlovas löpcoaching i
-      världsklass och en vecka fullspäckad med rolig och utmanande löpträning
-      för alla nivåer!
+      Next Level Running kommer i samarbete med Ving resor arrangera ett
+      träningsläger med fokus på att sätta deltagarna i position att göra sitt
+      livs bästa Lidingölopp. Tillsammans med tidigare landslagslöparen Tor
+      Pöllänen och Sveriges just nu bästa Marathonlöpare David Nilsson utlovas
+      löpcoaching i världsklass och en vecka fullspäckad med rolig och utmanande
+      löpträning för alla nivåer!
 
 
-      Under hösten kommer även ett nivåbaserat träningsprogram skickas ut till
-      deltagarna som med fördel kan följas för bästa möjliga förberedelser inför
-      resan.
-
-
-      Lägret kräver inga förkunskaper och är designat att vara roligt och
-      utvecklande för nybörjare såväl som mycket erfarna löpare.
-
-
-      Rabatterat pris för Next Level Runnings Medlemmar
-
-
-      [Till Resan!](https://www.ving.se/traningsresor/next-level-running)
+      MER INFO KOMMER
     img: /img/resagrön.jpg
-    price: fr. 12.540kr
-    title: Löparresa Gran Canaria med Ving
+    price: ''
+    title: Löparresa med Ving
 ending: '[Kontakta oss](/kontakt)'
 metaTitle: Erbjudande - Privatperson
 metaDescription: >-
