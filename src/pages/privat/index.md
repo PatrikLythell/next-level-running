@@ -73,8 +73,8 @@ offers:
     price: 995kr / pass
     title: Presentkort
   - body: >-
-      Testa att träna som en riktig elitlöpare – Välkommen till höstens i
-      särklass mest spektakulära träningsgrupp!
+      Testa att träna som en riktig elitlöpare – Välkommen till vårens mest
+      spektakulära träningsgrupp!
 
 
       Med Head Coach Tor Pöllänen i spetsen träffas vi en dag i veckan och
@@ -83,19 +83,13 @@ offers:
       för elitlöpare såväl som glada motionärer.
 
 
-      * **Onsdagar, 19.00 – 20.15**
-
-      * **29/8 - 14/11 (12 tillfällen)**
-
-      * **Kristinebergs IP**
-
-      * **995kr (drop-in 125kr)**
+      MER INFO KOMMER
 
 
       [Hör av dig och boka din plats!](/kontakt)
     img: /img/löpgruppgrön.jpg
-    price: 995kr
-    title: Träningsgrupp Hösten 2018
+    price: ''
+    title: Träningsgrupp Våren 2019
   - body: >-
       Hösten 2019 - Inför Lidingöloppet
 
