@@ -26,7 +26,7 @@ export class ContactPageTemplate extends React.Component {
   handleSubmit = e => {
     e.preventDefault();
     const form = e.target;
-    fetch("/", {
+    window.fetch("/", {
       method: "POST",
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
       body: encode({
@@ -57,8 +57,8 @@ export class ContactPageTemplate extends React.Component {
             <PageContent className="content sm:text-2xl md:mb-4 mt-2" content={this.props.intro} />
           </div>
         </div>
-        {this.state.sent ? (
-          <h2 className="text-center">Tack så mycket vi hör av oss</h2>
+        {!this.state.sent ? (
+          <h2 className="text-center hidden">Tack så mycket vi hör av oss</h2>
         ) : (
           <form className="p-4 sm:px-16 md:px-32 mb-16"
             name="konsultation"
@@ -68,7 +68,6 @@ export class ContactPageTemplate extends React.Component {
             data-netlify-honeypot="bot-field"
             onSubmit={this.handleSubmit}
           >
-            {/* The `form-name` hidden field is required to support form submissions without JavaScript */}
             <input type="hidden" name="form-name" value="konsultation" />
             <p hidden>
               <label>
