@@ -1,9 +1,7 @@
 ---
 templateKey: contact-page
 title: Kontakt
-intro: >-
-  Fyll i formuläret nedan eller hör av dig till coach@nextlevelrunning.se eller
-  070 - 185 91 91
+intro: coach@nextlevelrunning.se ~ 070 185 91 91
 forms:
   - name: Namn
     placeholder: Namn
