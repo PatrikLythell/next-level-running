@@ -81,7 +81,7 @@ offers:
   - body: >-
       Tränar du och dina medarbetare mot ett givet lopp? Vi på Next Level
       Running är stjärnor på att ta fram gruppbaserade träningsupplägg utformade
-      att fungera utmärkt för erfarna löpare såväl som totala nybörjare. Sådant
+      att fungera utmärkt för erfarna löpare såväl som nybörjare. Sådant
       träningsprogram kan med fördel förvandlas till en kul arbetsplatsutmaning
       och/eller kombineras med NLR gruppträning.
 
