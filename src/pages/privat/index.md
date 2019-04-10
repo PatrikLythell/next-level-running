@@ -72,40 +72,6 @@ offers:
     img: /img/grön_trappa2.jpg
     price: 995kr / pass
     title: Presentkort
-  - body: >-
-      Testa att träna som en riktig elitlöpare – Välkommen till vårens mest
-      spektakulära träningsgrupp!
-
-
-      Med Head Coach Tor Pöllänen i spetsen träffas vi en dag i veckan och
-      slipar på vår löpteknik och utför ett riktigt bra intervallpass
-      tillsammans. Inga förkunskaper krävs och passen fungerar alldeles utmärkt
-      för elitlöpare såväl som glada motionärer.
-
-
-      MER INFO KOMMER
-
-
-      [Hör av dig och boka din plats!](/kontakt)
-    img: /img/löpgruppgrön.jpg
-    price: ''
-    title: Träningsgrupp Våren 2019
-  - body: >-
-      Hösten 2019 - Inför Lidingöloppet
-
-
-      Next Level Running kommer i samarbete med Ving resor arrangera ett
-      träningsläger med fokus på att sätta deltagarna i position att göra sitt
-      livs bästa Lidingölopp. Tillsammans med tidigare landslagslöparen Tor
-      Pöllänen och Sveriges just nu bästa Marathonlöpare David Nilsson utlovas
-      löpcoaching i världsklass och en vecka fullspäckad med rolig och utmanande
-      löpträning för alla nivåer!
-
-
-      MER INFO KOMMER
-    img: /img/resagrön.jpg
-    price: ''
-    title: Löparresa med Ving
 ending: '[Kontakta oss](/kontakt)'
 metaTitle: Erbjudande - Privatperson
 metaDescription: >-
