@@ -3,7 +3,7 @@ templateKey: private-page
 title: VÅRT ERBJUDANDE - PRIVATPERSON
 intro: >-
   Vi står redo med ett brett utbud av löpcoachingorienterade tjänster i
-  världsklass!!
+  världsklass!!!
 cta: ''
 offerTitle: ''
 offers:
