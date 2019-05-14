@@ -62,7 +62,7 @@ coaches:
       * PBs: Längdhopp: 6,52 – Tresteg: 13,34
 
       * Främsta Meriter: EM 2016, 14 SM-medaljer på seniornivå samt en lång rad
-      finnkamps och Lag-EM-insatser
+      finnkamps- och Lag-EM-insatser
 
       * ORT: STOCKHOLM
     title: Malin Marmbrandt
@@ -98,13 +98,34 @@ coaches:
 
       * Utbildad Endurance Personal Trainer @ Konditionsidrott 
 
-      * PBs: 1 500m: 3.46 - 10 000m: 33.28
+      * PBs: 1 500m: 3.46 - 10 000m: 32.36
 
       * Främsta Meriter: JEM 2011
 
       * ORT: STOCKHOLM
     title: Marcus Hallbäck
     usp: Löp- och Triathloncoach & Fd. Landslagslöpare
+  - img: /img/rafael.png
+    text: >-
+      Fd. Häcklöpare med över 10 år i landslaget. Mångårig friidrottstränare och
+      löpcoach samt Förbundskapten för Juniorlandslaget i Friidrott. Mycket
+      uppskattad grupptränare med en svårslagen förmåga till utlärning av
+      löpteknik, löpkoordination och snabbhet. 
+
+
+      * Fd. Häcklöpare med 10 år i Landslaget
+
+      * Förbundkapten Juniorlandslaget i Friidrott
+
+      * Ekonomutbildning inom Sports Management och Marknadsföring
+
+      * PBs: 110mh 14:16, 60mh 7:95
+
+      * Främsta Meriter: 10 SM-medaljer, otaliga Finnkampsinsatser
+
+      * ORT: STOCKHOLM
+    title: Rafael Askros
+    usp: Löpcoach & Fd. Landslagsöpare
 ending: |-
   Vi har Medaljerna - Inte Diplomen!
 
