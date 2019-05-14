@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Hän med på Löparresa till Kroatien!
+title: Häng med på Löparresa till Kroatien!
 img: /img/2018-05-30_nlr_ving_banner.jpg
 date: 2019-05-14T07:39:21.003Z
 description: |
