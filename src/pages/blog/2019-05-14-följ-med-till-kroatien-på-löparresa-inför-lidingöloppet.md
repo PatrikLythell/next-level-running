@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Följ med till Kroatien på Löparresa inför Lidingöloppet
+title: Löparresa till Kroatien inför Lidingöloppet
 img: /img/2018-05-30_nlr_ving_banner.jpg
 date: 2019-05-14T07:39:21.003Z
 description: Häng med!
