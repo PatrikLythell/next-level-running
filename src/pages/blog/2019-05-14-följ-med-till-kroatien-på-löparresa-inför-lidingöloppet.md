@@ -10,6 +10,7 @@ metaDescription: >-
   Träningsresa tillsamman med Ving Resor i augusti och september 2019.
   Förberedande träning inför Lidingöloppet 2019. Vi utvecklar vår löpteknik och
   springer intervaller tillsammans med Coach Tor Pöllänen.
+ogImage: /img/2018-05-30_nlr_ving_banner.jpg
 ---
 I samarbete med Ving Resor välkomnar vi nu alla löparintresserade till sommarens roligaste och mest givande löparresa!
 
