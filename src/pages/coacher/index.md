@@ -13,8 +13,8 @@ coaches:
     text: >-
       Fd. landslagslöpare (400m och 800m) som nyligen hoppade analytikerjobbet
       för att ägna sig åt sin passion – löpträning och målförverkligande!
-      Löpcoach och rådgivare till ett flertal elitlöpare såväl som motionärer.
-      Känd för sitt lätta steg och välslipade löpteknik – något som Tor i hög
+      Löpcoach och rådgivare till en rad elitlöpare såväl som motionärer. Känd
+      för sitt lätta steg och välslipade löpteknik – något som Tor i hög
       utsträckning lyckas överföra till sina adepter. Hopplös tävlingsmänniska
       med ett stort intresse för drivkrafter och personlig utveckling. 
 
@@ -22,6 +22,8 @@ coaches:
       * Grundare och Head Coach @ Next Level Running
 
       * MSc Finansiell Analys och Styrning, Handelshögskolan i Stockholm
+
+      * Sprint- & Medeldistanscoach @ Bromma IF Friidrott
 
       * PBs: 400m: 47,68 – 800m: 1,48,18
 
