@@ -25,7 +25,7 @@ coaches:
 
       * Sprint- & Medeldistanscoach @ Bromma IF Friidrott
 
-      * PBs: 400m: 47,68 – 800m: 1,48,18
+      * PBs: 400m: 47:68 – 800m: 1:48:18
 
       * Främsta Meriter: Finnkampsseger 800m (2007), Semifinalist Junior-VM 800m
       (2006), US MAAC Champion 400m (2008)
@@ -35,17 +35,18 @@ coaches:
     usp: Head Coach & Fd. Landslagslöpare
   - img: /img/david.png
     text: >-
-      Sveriges snabbaste Marathonlöpare och VM-deltagare år 2017. Tillsammans
-      med sin satsning mot OS 2020 coachar David en exklusiv skara elit- såväl
-      som motionslöpare mot deras mål. Vid sidan av detta är David en uppskattad
-      och inspirerande föreläsare.
+      Sveriges för tillfället bäste Marathonlöpare och VM-deltagare år 2017. Vid
+      sidan av sin satsning mot OS 2020 coachar David en exklusiv skara
+      motionslöpare mot deras mål. Vid sidan av detta är David en uppskattad och
+      inspirerande föreläsare.
 
 
-      * PBs: Marathon: 2,15,40 – Halvmarathon: 1,03,34 – 10 000m: 29,03 – 5
-      000m: 13,57 – Lidingöloppet 30k: 1,38,45
+      * Personliga Rekord: Marathon: 2:13:29 – Halvmarathon: 1:02:09 – 10 000m:
+      29:03 – 5 000m: 13:49 – Lidingöloppet 30k: 1:38:45
 
       * Främsta Meriter: Två VM & fyra EM, 10:e plats på terräng-EM 2015, tre
-      gånger första svensk på Lidingöloppets klassiska tremil.
+      gånger första svensk på Lidingöloppets klassiska tremil. Svenskt rekord på
+      Halvmarathon 2018.
 
       * ORT: STOCKHOLM
     title: David Nilsson
