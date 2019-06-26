@@ -2,13 +2,12 @@
 templateKey: coach-page
 title: Coacher
 intro: >-
-  På Next Level Running har vi som ambition att erbjuda marknadens i särklass
-  bästa löpcoaching. Därför har vi samlat ett gäng SUPERSTARS. Alla våra Coacher
-  är nämligen landslagsmeriterade, har en gedigen elitbakgrund och har coachat
-  på hög nivå i många år! Vi kan på så sätt säkerställa att vi gör avstamp i hur
-  landets absoluta topplöpare tränar och på bästa sätt transferera dessa
-  insikter till ett träningsupplägg som tar våra adepter till nästa nivå. Lär
-  från de bästa och ta din löpning till nästa nivå!
+  På Next Level Running har vi som ambition att erbjuda marknadens bästa
+  löpcoaching. Därför har vi samlat ett gäng riktiga stjärnor! Alla våra Coacher
+  är landslagsmeriterade, har en gedigen elitbakgrund och har coachat på hög
+  nivå i många år. Vi kan på så sätt säkerställa att vi gör avstamp i hur
+  landets absoluta topplöpare tränar och på bästa sätt transferera detta till
+  ett träningsupplägg som tar våra adepter och löpgrupper till nästa nivå.
 coaches:
   - img: /img/tor.png
     text: >-
