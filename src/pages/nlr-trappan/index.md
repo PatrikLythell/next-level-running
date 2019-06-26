@@ -12,7 +12,7 @@ metaDescription: >-
 
 ## We fight come fall - We thrive come spring
 
-En slående skillnad mellan elitlöparens och motionärens träningsupplägg är en genomtänkt uppdelning av träningen i olika fokusperioder - s.k. pulsering. Sådan uppdelning har till syfte att i givna perioder utveckla olika delar av löparens färdigheter för att i slutändan säkerställa att löparen är sin absolut bästa version av sig själv vid ett givet tillfälle. Formtoppning blir här en central aspekt av träningsupplägget - alltså att i perioder träna mer och hårdare för att närmare ett aktuellt tävlingstillfälle minska träningsmängden och på så sätt få maximal utväxling på den träning som utförts under tidigare perioder. 					
+En slående skillnad mellan elitlöparens och motionärens träningsupplägg är en genomtänkt uppdelning av träningen i olika fokusperioder - s.k. pulsering. Sådan uppdelning har till syfte att i givna perioder utveckla olika delar av löparens färdigheter för att i slutändan säkerställa att löparen är sin absolut bästa version av sig själv vid ett givet tävlingstillfälle. Formtoppning blir här en central aspekt av träningsupplägget - alltså att i perioder träna mer och hårdare för att närmare ett aktuellt tävlingstillfälle minska träningsmängden och på så sätt få maximal utväxling av den träning som utförts under tidigare perioder. 					
 
 På Next Level Running hjälper vi dig med en ändamålsenlig pulsering av din träning - så att du når just dina mål! Och förresten, känslan av att vara i toppform är fantastisk…
 
