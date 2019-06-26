@@ -61,7 +61,7 @@ coaches:
 
       * BSc Business Administration and Marketing, MSc International Marketing
 
-      * PBs: Längdhopp: 6,52 – Tresteg: 13,34
+      * PBs: Längdhopp: 6.52 – Tresteg: 13.34
 
       * Främsta Meriter: EM 2016, 14 SM-medaljer på seniornivå samt en lång rad
       finnkamps- och Lag-EM-insatser
@@ -79,7 +79,7 @@ coaches:
 
       * Leg. Fysioterapeut, Linköpings Universitet
 
-      * PBs: 400m: 47,04 - 800m: 1,47,01 - 1 500m: 3.44
+      * PBs: 400m: 47:04 - 800m: 1:47:01 - 1 500m: 3:44
 
       * Främsta Meriter: IVM 2006, EM 2010, två SM-guld och finnkampsseger på
       800m
@@ -90,17 +90,17 @@ coaches:
   - img: /img/marcus.png
     text: >-
       Fd. 1500-meterslöpare som de senaste åren gått över till Triathlon. Vid
-      sidan av sin sin fortsatta Triathlonsatsning coachar Marcus en rad Löpare
-      och Triathleter mot nya höjder. Marcus är dessutom en mycket uppskattad
+      sidan av sin sin fortsatta Triathlonsatsning coachar Marcus en rad löpare
+      och triathleter mot nya nivåer. Marcus är dessutom en mycket uppskattad
       grupptränare med en fantastisk förmåga till utlärning av löpteknik och
-      löpkoordination.
+      löpkoordination. 
 
 
       * Elitsatsande Triathlet
 
       * Utbildad Endurance Personal Trainer @ Konditionsidrott 
 
-      * PBs: 1 500m: 3.46 - 10 000m: 32.36
+      * PBs: 1 500m: 3:46 - 10 000m: 32:30
 
       * Främsta Meriter: JEM 2011
 
