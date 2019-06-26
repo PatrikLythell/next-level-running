@@ -28,7 +28,7 @@ coaches:
       * PBs: 400m: 47,68 – 800m: 1,48,18
 
       * Främsta Meriter: Finnkampsseger 800m (2007), Semifinalist Junior-VM 800m
-      (2006), Metropolitan Atlantic Association Conference Champion 400m (2008)
+      (2006), US MAAC Champion 400m (2008)
 
       * ORT: STOCKHOLM
     title: Tor Pöllänen
