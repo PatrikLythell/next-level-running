@@ -28,8 +28,7 @@ Next Level Running tar baserat på dina mål och förutsättningar fram ett trä
 
 ## We win or we learn - we never lose
 
-Att vara lyhörd och responsiv på hur våra kroppar reagerar på olika typer av träning är något som urskiljer de allra bästa coacherna. Via en kontinuerlig och öppen dialog mellan utövaren och dess coach kan nyckelfaktorer i träningen identifieras och träningsprogrammet justeras på ett fruktsamt sätt. Vidare blir givetvis ett tränat löpcoachöga viktigt vid utveckling av löpteknik och löpstyrka samt mindset och taktik vid hårda intervallpass och faktiska tävlingstillfällen.					
-				
+Att vara lyhörd och responsiv på hur våra kroppar reagerar på olika typer av träning är något som urskiljer de allra bästa coacherna. Via en kontinuerlig och öppen dialog mellan utövaren och dess coach kan nyckelfaktorer i träningen identifieras och träningsprogrammet justeras på ett fruktsamt sätt. Vidare blir givetvis ett tränat löpcoachöga viktigt vid utveckling av löpteknik och löpstyrka samt mindset och taktik vid hårda intervallpass och faktiska tävlingstillfällen.									
 
 Next Level Running bistår dig med löpande uppföljning, analys och justering av ditt träningsupplägg baserat på vad i din träning som fungerar allra bäst just för dig. Handfasta tips kopplat till löpteknik och löpstyrka är dessutom centrala inslag under de coachledda träningspassen. Hoppa PT:n på gymmet och lås upp proffsens hemligheter!
 
