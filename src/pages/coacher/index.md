@@ -111,13 +111,13 @@ coaches:
     text: >-
       Fd. Häcklöpare med över 10 år i landslaget. Mångårig friidrottstränare och
       löpcoach samt Förbundskapten för Juniorlandslaget i Friidrott. Mycket
-      uppskattad grupptränare med en svårslagen förmåga till utlärning av
+      uppskattad grupptränare med en fantastisk förmåga till utlärning av
       löpteknik, löpkoordination och snabbhet. 
 
 
       * Fd. Häcklöpare med 10 år i Landslaget
 
-      * Förbundkapten Juniorlandslaget i Friidrott
+      * Förbundkapten för Juniorlandslaget i Friidrott
 
       * Ekonomutbildning inom Sports Management och Marknadsföring
 
