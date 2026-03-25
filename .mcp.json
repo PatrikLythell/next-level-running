@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "payload-cms": {
+      "type": "url",
+      "url": "https://next-level-running.vercel.app/api/mcp",
+      "headers": {
+        "Authorization": "Bearer e1db8701-3f3f-4fdc-92b3-41c776722819"
+      }
+    }
+  }
+}
